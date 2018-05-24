@@ -1,0 +1,2193 @@
+,INSTNM,C100_4,GRAD CLASSES
+0,Alabama A & M University,0.110200002789,0
+1,University of Alabama at Birmingham,0.325800001621,1
+2,Amridge University,0.0,0
+3,University of Alabama in Huntsville,0.151600003242,0
+4,Alabama State University,0.0751999989152,0
+5,The University of Alabama,0.387699991465,1
+6,Auburn University at Montgomery,0.0863000005484,0
+7,Auburn University,0.422500014305,2
+8,Birmingham Southern College,0.562200009823,2
+9,Concordia College Alabama,0.0,0
+10,South University-Montgomery,0.0476000010967,0
+11,Faulkner University,0.11930000037,0
+12,Herzing University-Birmingham,0.0,0
+13,Huntingdon College,0.30039998889,1
+14,Heritage Christian University,0.25,1
+15,Jacksonville State University,0.0869000032544,0
+16,Judson College,0.368400007486,1
+17,University of West Alabama,0.19509999454,0
+18,Miles College,0.0824000015855,0
+19,University of Mobile,0.248999997973,1
+20,University of Montevallo,0.207100003958,1
+21,University of North Alabama,0.120399996638,0
+22,Oakwood University,0.198799997568,0
+23,Samford University,0.476599991322,2
+24,Selma University,0.0377999991179,0
+25,University of South Alabama,0.15379999578,0
+26,Spring Hill College,0.508700013161,2
+27,Southeastern Bible College,0.15379999578,0
+28,Stillman College,0.120800003409,0
+29,Talladega College,0.337599992752,1
+30,Troy University,0.145600005984,0
+31,Tuskegee University,0.213300004601,1
+32,University of Alaska Anchorage,0.0802000015974,0
+33,University of Alaska Fairbanks,0.149399995804,0
+34,University of Alaska Southeast,0.0366999991238,0
+35,Alaska Pacific University,0.533299982548,2
+36,Charter College,0.2363999933,1
+37,Everest College-Phoenix,0.13789999485,0
+38,Collins College,0.360799998045,1
+39,American Indian College Inc,0.0,0
+40,CollegeAmerica-Flagstaff,0.266699999571,1
+41,Brookline College-Phoenix,0.215700000525,1
+42,Arizona State University-Tempe,0.428000003099,2
+43,University of Arizona,0.400599986315,2
+44,Southwest University of Visual Arts-Tucson,0.132100000978,0
+45,Brown Mackie College-Tucson,0.10000000149,0
+46,Embry-Riddle Aeronautical University-Prescott,0.346199989319,1
+47,Grand Canyon University,0.181799992919,0
+48,ITT Technical Institute-Tempe,0.142900004983,0
+49,Northern Arizona University,0.331900000572,1
+50,Prescott College,0.168500006199,0
+51,Arizona Christian University,0.462700009346,2
+52,Western International University,0.0,0
+53,University of Arkansas at Little Rock,0.0813999995589,0
+54,Arkansas Baptist College,0.0447999984026,0
+55,Lyon College,0.490200012922,2
+56,University of Arkansas,0.372200012207,1
+57,University of Arkansas at Pine Bluff,0.0976999998093,0
+58,Arkansas State University-Main Campus,0.202000007033,1
+59,Arkansas Tech University,0.243799999356,1
+60,University of Arkansas at Monticello,0.159799993038,0
+61,University of Central Arkansas,0.21400000155,1
+62,Central Baptist College,0.326099991798,1
+63,Crowley's Ridge College,0.0588000006974,0
+64,Harding University,0.433699995279,2
+65,Henderson State University,0.185100004077,0
+66,Hendrix College,0.660499989986,3
+67,John Brown University,0.52120000124,2
+68,Ouachita Baptist University,0.507399976254,2
+69,University of the Ozarks,0.369199991226,1
+70,Philander Smith College,0.235699996352,1
+71,Williams Baptist College,0.2867000103,1
+72,Southern Arkansas University Main Campus,0.181500002742,0
+73,University of Arkansas-Fort Smith,0.128800004721,0
+74,Academy of Art University,0.049699999392,0
+75,Art Center College of Design,0.313400000334,1
+76,Azusa Pacific University,0.467900007963,2
+77,Bethesda University,0.416700005531,2
+78,Biola University,0.50830000639,2
+79,Brooks Institute,0.527599990368,2
+80,California Baptist University,0.400499999523,2
+81,California College of the Arts,0.287400007248,1
+82,California Institute of Technology,0.847500026226,4
+83,California Lutheran University,0.583000004292,2
+84,California Polytechnic State University-San Luis Obispo,0.361400008202,1
+85,California State University-Bakersfield,0.159799993038,0
+86,California State University-Stanislaus,0.147900000215,0
+87,California State University-San Bernardino,0.125799998641,0
+88,California State Polytechnic University-Pomona,0.11779999733,0
+89,California State University-Chico,0.196899995208,0
+90,California State University-Dominguez Hills,0.0472000017762,0
+91,California State University-Fresno,0.147200003266,0
+92,California State University-Fullerton,0.139400005341,0
+93,California State University-East Bay,0.104000002146,0
+94,California State University-Long Beach,0.149000003934,0
+95,California State University-Los Angeles,0.0626000016928,0
+96,California State University-Northridge,0.119000002742,0
+97,California State University-Sacramento,0.075300000608,0
+98,University of California-Berkeley,0.716600000858,3
+99,University of California-Davis,0.534799993038,2
+100,University of California-Irvine,0.682099997997,3
+101,University of California-Los Angeles,0.718100011349,3
+102,University of California-Riverside,0.442900002003,2
+103,University of California-San Diego,0.57080000639,2
+104,University of California-Santa Barbara,0.691900014877,3
+105,University of California-Santa Cruz,0.550499975681,2
+106,California Institute of the Arts,0.643299996853,3
+107,California State University Maritime Academy,0.418300002813,2
+108,Chapman University,0.581300020218,2
+109,Concordia University-Irvine,0.472400009632,2
+110,San Diego Christian College,0.30910000205,1
+111,Claremont McKenna College,0.800000011921,4
+112,Cogswell College,0.0,0
+113,Coleman University,0.411799997091,2
+114,Columbia College-Hollywood,0.333299994469,1
+115,Design Institute of San Diego,0.333299994469,1
+116,Dominican University of California,0.546800017357,2
+117,FIDM-Fashion Institute of Design & Merchandising-Los Angeles,0.538500010967,2
+118,FIDM-Fashion Institute of Design & Merchandising-San Francisco,0.5,2
+119,Fresno Pacific University,0.489800006151,2
+120,Harvey Mudd College,0.846499979496,4
+121,Holy Names University,0.275200009346,1
+122,Humboldt State University,0.125900000334,0
+123,Humphreys University-Stockton and Modesto Campuses,0.612900018692,3
+124,ITT Technical Institute-National City,0.0,0
+125,ITT Technical Institute-San Dimas,0.333299994469,1
+126,American Jewish University,0.27270001173,1
+127,Life Pacific College,0.152199998498,0
+128,Argosy University-The Art Institute of California-San Diego,0.469599992037,2
+129,University of La Verne,0.407400012016,2
+130,Laguna College of Art and Design,0.258599996567,1
+131,Lincoln University,0.333299994469,1
+132,La Sierra University,0.239800006151,1
+133,The Master's University and Seminary,0.534399986267,2
+134,Argosy University-The Art Institute of California-San Francisco,0.212999999523,1
+135,Loyola Marymount University,0.688600003719,3
+136,Menlo College,0.356700003147,1
+137,Mills College,0.595700025558,2
+138,Mount Saint Mary's University,0.497000008821,2
+139,Musicians Institute,0.5,2
+140,The National Hispanic University,0.0,0
+141,National University,0.192300006747,0
+142,Newschool of Architecture and Design,0.0,0
+143,Notre Dame de Namur University,0.428600013256,2
+144,Occidental College,0.800899982452,4
+145,Otis College of Art and Design,0.519999980927,2
+146,Hope International University,0.287400007248,1
+147,Pacific States University,0.0,0
+148,Pacific Union College,0.300000011921,1
+149,University of the Pacific,0.42919999361,2
+150,Pepperdine University,0.747799992561,3
+151,Pitzer College,0.801500022411,4
+152,Point Loma Nazarene University,0.591099977493,2
+153,Pomona College,0.900499999523,4
+154,Westwood College-South Bay,0.231900006533,1
+155,University of Redlands,0.625899970531,3
+156,Argosy University-San Francisco Bay Area,0.0,0
+157,San Diego State University,0.294299989939,1
+158,University of San Diego,0.665600001812,3
+159,San Francisco Art Institute,0.315800011158,1
+160,San Francisco Conservatory of Music,0.472200006247,2
+161,San Francisco State University,0.149200007319,0
+162,University of San Francisco,0.610000014305,3
+163,William Jessup University,0.563600003719,2
+164,San Jose State University,0.0947000011802,0
+165,Westwood College-Los Angeles,0.331699997187,1
+166,Santa Clara University,0.779500007629,3
+167,Scripps College,0.800800025463,4
+168,Shasta Bible College and Graduate School,0.142900004983,0
+169,Simpson University,0.408499985933,2
+170,Saint Mary's College of California,0.555700004101,2
+171,Sonoma State University,0.272199988365,1
+172,Vanguard University of Southern California,0.488299995661,2
+173,Southern California Institute of Architecture,0.0344999991357,0
+174,University of Southern California,0.757000029087,3
+175,Thomas Aquinas College,0.629199981689,3
+176,Epic Bible College,0.125,0
+177,Walden University,0.333299994469,1
+178,Westmont College,0.739400029182,3
+179,Whittier College,0.596199989319,2
+180,Woodbury University,0.132899999619,0
+181,Yeshiva Ohr Elchonon Chabad West Coast Talmudical Seminary,0.379299998283,1
+182,Adams State University,0.0940999984741,0
+183,University of Colorado Denver/Anschutz Medical Campus,0.150600001216,0
+184,University of Colorado Colorado Springs,0.267899990082,1
+185,University of Colorado Boulder,0.460900008678,2
+186,Colorado Christian University,0.302500009537,1
+187,Colorado College,0.814499974251,4
+188,The Art Institute of Colorado,0.144800007343,0
+189,Colorado School of Mines,0.463200002909,2
+190,Colorado State University-Fort Collins,0.386000007391,1
+191,Colorado Technical University-Colorado Springs,0.140400007367,0
+192,CollegeAmerica-Denver,0.19509999454,0
+193,Westwood College-Denver North,0.076700001955,0
+194,University of Denver,0.656899988651,3
+195,Fort Lewis College,0.179399996996,0
+196,Colorado Mesa University,0.161899998784,0
+197,Metropolitan State University of Denver,0.0458999983966,0
+198,Naropa University,0.196400001645,0
+199,National American University-Colorado Springs,0.0,0
+200,National American University-Denver,0.0,0
+201,Nazarene Bible College,0.0,0
+202,University of Northern Colorado,0.269400000572,1
+203,Regis University,0.423000007868,2
+204,Rocky Mountain College of Art and Design,0.453099995852,2
+205,Colorado State University-Pueblo,0.159700006247,0
+206,Western State Colorado University,0.190799996257,0
+207,Albertus Magnus College,0.343899995089,1
+208,Lincoln College of New England-Southington,0.0908999964595,0
+209,University of Bridgeport,0.202700003982,1
+210,Central Connecticut State University,0.215100005269,1
+211,Connecticut College,0.780900001526,3
+212,University of Connecticut,0.671199977398,3
+213,Eastern Connecticut State University,0.391099989414,1
+214,Fairfield University,0.766099989414,3
+215,University of Hartford,0.445300012827,2
+216,Holy Apostles College and Seminary,0.0,0
+217,Lyme Academy College of Fine Arts,0.81819999218,4
+218,Mitchell College,0.39849999547,1
+219,University of New Haven,0.388799995184,1
+220,Paier College of Art Inc,0.482800006866,2
+221,Post University,0.170499995351,0
+222,Quinnipiac University,0.717800021172,3
+223,Sacred Heart University,0.594299972057,2
+224,University of Saint Joseph,0.408899992704,2
+225,Southern Connecticut State University,0.227500006557,1
+226,Trinity College,0.787800014019,3
+227,Wesleyan University,0.869899988174,4
+228,Western Connecticut State University,0.196099996567,0
+229,Yale University,0.873899996281,4
+230,Delaware State University,0.213599994779,1
+231,University of Delaware,0.679600000381,3
+232,Goldey-Beacom College,0.333299994469,1
+233,Wesley College,0.139300003648,0
+234,Wilmington University,0.125,0
+235,American University,0.763700008392,3
+236,Catholic University of America,0.596000015736,2
+237,University of the District of Columbia,0.0469000004232,0
+238,Gallaudet University,0.162000000477,0
+239,George Washington University,0.723699986935,3
+240,Georgetown University,0.910199999809,4
+241,Howard University,0.425900012255,2
+242,Strayer University-District of Columbia,0.13330000639,0
+243,Trinity Washington University,0.324900001287,1
+244,The Art Institute of Fort Lauderdale,0.232600003481,1
+245,The Baptist College of Florida,0.265300005674,1
+246,Barry University,0.205500006676,1
+247,Bethune-Cookman University,0.275400012732,1
+248,Lynn University,0.347799986601,1
+249,Carlos Albizu University-Miami,0.5,2
+250,Johnson University Florida,0.1875,0
+251,University of Central Florida,0.401399999857,2
+252,Clearwater Christian College,0.355399996042,1
+253,South University-West Palm Beach,0.0571000017226,0
+254,Eckerd College,0.58109998703,2
+255,Edward Waters College,0.0304000005126,0
+256,Embry-Riddle Aeronautical University-Daytona Beach,0.307200014591,1
+257,Florida Agricultural and Mechanical University,0.121500000358,0
+258,Florida Atlantic University,0.170699998736,0
+259,Flagler College-St Augustine,0.4837000072,2
+260,Florida College,0.122299998999,0
+261,Adventist University of Health Sciences,0.0,0
+262,Florida Institute of Technology,0.388999998569,1
+263,Florida International University,0.235699996352,1
+264,Florida Memorial University,0.167600005865,0
+265,Florida Career College-Miami,0.1053000018,0
+266,Florida Southern College,0.557299971581,2
+267,Florida State University,0.614099979401,3
+268,University of Florida,0.67199999094,3
+269,Everest University-Pompano Beach,0.235300004482,1
+270,Full Sail University,0.490599989891,2
+271,Hobe Sound Bible College,0.266699999571,1
+272,Sanford-Brown College-Tampa,0.256399989128,1
+273,AI Miami International University of Art and Design,0.230299994349,1
+274,Jacksonville University,0.280099987984,1
+275,Jones College-Jacksonville,0.0833000019193,0
+276,Keiser University-Ft Lauderdale,0.00159999995958,0
+277,Luther Rice College & Seminary,0.0,0
+278,University of Miami,0.684800028801,3
+279,Remington College-Tampa Campus,0.519999980927,2
+280,Lincoln College of Technology-West Palm Beach,0.295100003481,1
+281,University of North Florida,0.26210001111,1
+282,Northwood University-Florida,0.25,1
+283,Nova Southeastern University,0.317099988461,1
+284,Everest University-North Orlando,0.315800011158,1
+285,Palm Beach Atlantic University,0.428600013256,2
+286,Ringling College of Art and Design,0.573000013828,2
+287,Rollins College,0.631500005722,3
+288,Saint Leo University,0.2825999856,1
+289,Argosy University-Sarasota,0.666700005531,3
+290,Saint John Vianney College Seminary,0.444400012493,2
+291,University of South Florida-Main Campus,0.38710001111,1
+292,St Thomas University,0.208499997854,1
+293,Stetson University,0.557500004768,2
+294,Southeastern University,0.310799986124,1
+295,Talmudic College of Florida,0.800000011921,4
+296,Everest University-Tampa,0.75,3
+297,Everest University-Largo,0.0,0
+298,The University of Tampa,0.516300022602,2
+299,Trinity Baptist College,0.310799986124,1
+300,Trinity College of Florida,0.0741000026464,0
+301,Warner University,0.237800002098,1
+302,Webber International University,0.181799992919,0
+303,Rasmussen College-Florida,0.5,2
+304,The University of West Florida,0.26890000701,1
+305,Abraham Baldwin Agricultural College,0.0322999991477,0
+306,Agnes Scott College,0.727800011635,3
+307,Albany State University,0.10379999876,0
+308,Armstrong State University,0.107799999416,0
+309,The Art Institute of Atlanta,0.153999999166,0
+310,Point University,0.226199999452,1
+311,Clark Atlanta University,0.240799993277,1
+312,Bauder College,0.07689999789,0
+313,Berry College,0.54240000248,2
+314,Beulah Heights University,0.0,0
+315,Brenau University,0.34659999609,1
+316,Brewton-Parker College,0.0839999988675,0
+317,Carver Bible College,0.0,0
+318,Clayton  State University,0.133900001645,0
+319,Columbus State University,0.118799999356,0
+320,Covenant College,0.483099997044,2
+321,Dalton State College,0.0816000029445,0
+322,South University-Savannah,0.0443999990821,0
+323,Emmanuel College,0.285699993372,1
+324,Emory University,0.840399980545,4
+325,Fort Valley State University,0.108900003135,0
+326,Georgia Institute of Technology-Main Campus,0.369899988174,1
+327,Georgia Southwestern State University,0.100500002503,0
+328,Georgia College and State University,0.399300009012,1
+329,Georgia Southern University,0.266600012779,1
+330,Georgia State University,0.223800003529,1
+331,University of Georgia,0.597100019455,2
+332,Kennesaw State University,0.163699999452,0
+333,LaGrange College,0.442299991846,2
+334,Life University,0.230800002813,1
+335,Herzing University-Atlanta,0.192300006747,0
+336,Mercer University,0.484600007534,2
+337,Morehouse College,0.395300000906,1
+338,Oglethorpe University,0.385199993849,1
+339,Paine College,0.0372000001371,0
+340,Piedmont College,0.368900001049,1
+341,Reinhardt University,0.244900003076,1
+342,Savannah College of Art and Design,0.443100005388,2
+343,Savannah State University,0.0785000026226,0
+344,Shorter University,0.354499995708,1
+345,Spelman College,0.67040002346,3
+346,Southern Polytechnic State University,0.104999996722,0
+347,Thomas University,0.0841000005603,0
+348,Toccoa Falls College,0.406500011683,2
+349,Truett McConnell University,0.131699994206,0
+350,Valdosta State University,0.163800001144,0
+351,Wesleyan College,0.464300006628,2
+352,University of West Georgia,0.159899994731,0
+353,Chaminade University of Honolulu,0.29240000248,1
+354,University of Hawaii at Hilo,0.113799996674,0
+355,University of Hawaii at Manoa,0.197999998927,0
+356,Hawaii Pacific University,0.199000000954,0
+357,University of Hawaii-West Oahu,0.0799999982119,0
+358,Boise Bible College,0.285699993372,1
+359,Boise State University,0.120999999344,0
+360,Idaho State University,0.113399997354,0
+361,University of Idaho,0.276600003242,1
+362,The College of Idaho,0.441599994898,2
+363,Lewis-Clark State College,0.109600000083,0
+364,Northwest Nazarene University,0.318899989128,1
+365,Brigham Young University-Idaho,0.167799994349,0
+366,American Academy of Art,0.468100011349,2
+367,School of the Art Institute of Chicago,0.369599997997,1
+368,Augustana College,0.709399998188,3
+369,Aurora University,0.435000002384,2
+370,Blackburn College,0.304100006819,1
+371,Bradley University,0.507799983025,2
+372,Chicago State University,0.0249000005424,0
+373,University of Chicago,0.86519998312,4
+374,Columbia College Chicago,0.296299993992,1
+375,Concordia University-Chicago,0.542200028896,2
+376,DePaul University,0.560299992561,2
+377,East-West University,0.0507000014186,0
+378,Eastern Illinois University,0.329899996519,1
+379,Elmhurst College,0.607599973679,3
+380,Eureka College,0.346399992704,1
+381,Greenville College,0.396699994802,1
+382,Harrington College of Design,0.256799995899,1
+383,Hebrew Theological College,0.0507000014186,0
+384,University of Illinois at Chicago,0.333200007677,1
+385,Benedictine University,0.324900001287,1
+386,University of Illinois at Urbana-Champaign,0.692200005054,3
+387,Illinois Wesleyan University,0.749100029469,3
+388,Illinois College,0.662699997425,3
+389,Illinois Institute of Technology,0.283199995756,1
+390,Argosy University-Chicago,0.46669998765,2
+391,Illinois State University,0.456200003624,2
+392,Sanford-Brown College-Chicago,0.0992999970913,0
+393,Judson University,0.312799990177,1
+394,Kendall College,0.194900006056,0
+395,Knox College,0.727500021458,3
+396,Lake Forest College,0.640200018883,3
+397,Lewis University,0.423000007868,2
+398,Lincoln Christian University,0.313300013542,1
+399,Lincoln College,0.0,0
+400,Loyola University Chicago,0.652100026608,3
+401,MacMurray College,0.233300000429,1
+402,McKendree University,0.357100009918,1
+403,Midstate College,0.0,0
+404,Millikin University,0.51029998064,2
+405,Monmouth College,0.475199997425,2
+406,Moody Bible Institute,0.790199995041,3
+407,National Louis University,0.25,1
+408,North Central College,0.496199995279,2
+409,North Park University,0.340600013733,1
+410,Northern Illinois University,0.252499997616,1
+411,Northwestern University,0.853600025177,4
+412,Northeastern Illinois University,0.0504000000656,0
+413,Olivet Nazarene University,0.444400012493,2
+414,Quincy University,0.330599993467,1
+415,The Illinois Institute of Art-Chicago,0.162400007248,0
+416,Robert Morris University Illinois,0.740999996662,3
+417,Rockford University,0.27270001173,1
+418,Roosevelt University,0.180899992585,0
+419,Dominican University,0.476000010967,2
+420,University of St Francis,0.379299998283,1
+421,Saint Xavier University,0.321799993515,1
+422,University of Illinois at Springfield,0.332199990749,1
+423,Shimer College,0.18520000577,0
+424,Southern Illinois University-Carbondale,0.245499998331,1
+425,Southern Illinois University-Edwardsville,0.2867000103,1
+426,Telshe Yeshiva-Chicago,0.0,0
+427,Trinity Christian College,0.451099991798,2
+428,Trinity International University-Illinois,0.358200013638,1
+429,VanderCook College of Music,0.600000023842,3
+430,Western Illinois University,0.296799987555,1
+431,Wheaton College,0.796599984169,3
+432,Anderson University,0.479600012302,2
+433,Ball State University,0.370400011539,1
+434,Bethel College-Indiana,0.561699986458,2
+435,Butler University,0.620999991894,3
+436,Calumet College of Saint Joseph,0.17990000546,0
+437,DePauw University,0.746699988842,3
+438,Earlham College,0.647099971771,3
+439,University of Evansville,0.527599990368,2
+440,Franklin College,0.539200007915,2
+441,Goshen College,0.552299976349,2
+442,Grace College and Theological Seminary,0.615899980068,3
+443,Hanover College,0.655499994755,3
+444,Holy Cross College,0.201000005007,1
+445,Huntington University,0.483599990606,2
+446,Indiana University-Purdue University-Fort Wayne,0.0712999999523,0
+447,Indiana University-Purdue University-Indianapolis,0.175099998713,0
+448,Harrison College-Indianapolis,0.0,0
+449,University of Indianapolis,0.36669999361,1
+450,Indiana Institute of Technology,0.17990000546,0
+451,University of Southern Indiana,0.167699992657,0
+452,Indiana State University,0.195399999619,0
+453,Indiana University-Kokomo,0.0927999988198,0
+454,Indiana University-South Bend,0.0634000003338,0
+455,Indiana University-Bloomington,0.594399988651,2
+456,Indiana University-Northwest,0.0864000022411,0
+457,Indiana University-Southeast,0.0852999985218,0
+458,Indiana University-East,0.0892999991775,0
+459,International Business College-Fort Wayne,0.717000007629,3
+460,ITT Technical Institute-Nashville,0.0741000026464,0
+461,ITT Technical Institute-Fort Wayne,1.0,5
+462,ITT Technical Institute-Indianapolis,0.0384999997914,0
+463,Brown Mackie College-Merrillville,0.222200006247,1
+464,Brown Mackie College-Michigan City,0.0,0
+465,Manchester University,0.479799985886,2
+466,Marian University,0.344700008631,1
+467,Indiana Wesleyan University-Marion,0.519299983978,2
+468,Martin University,0.0,0
+469,Brown Mackie College-South Bend,0.333299994469,1
+470,University of Notre Dame,0.907100021839,4
+471,Oakland City University,0.354499995708,1
+472,Purdue University-Calumet Campus,0.0943000018597,0
+473,Purdue University-North Central Campus,0.0544999986887,0
+474,Rose-Hulman Institute of Technology,0.625,3
+475,University of Saint Francis-Fort Wayne,0.310499995947,1
+476,Saint Josephs College,0.398600012064,1
+477,Saint Mary-of-the-Woods College,0.363599985838,1
+478,Saint Mary's College,0.780200004578,3
+479,Taylor University,0.671000003815,3
+480,Trine University,0.344199985266,1
+481,Valparaiso University,0.595399975777,2
+482,Vincennes University,0.224500000477,1
+483,Wabash College,0.682699978352,3
+484,Briar Cliff University,0.377000004053,1
+485,Buena Vista University,0.351599991322,1
+486,Central College,0.631200015545,3
+487,Clarke University,0.489199995995,2
+488,Coe College,0.612900018692,3
+489,Cornell College,0.621699988842,3
+490,Divine Word College,0.5,2
+491,Dordt College,0.569199979305,2
+492,Drake University,0.65499997139,3
+493,University of Dubuque,0.374199986458,1
+494,Emmaus Bible College,0.5,2
+495,Faith Baptist Bible College and Theological Seminary,0.393400013447,1
+496,Graceland University-Lamoni,0.357100009918,1
+497,Grand View University,0.283600002527,1
+498,Grinnell College,0.848500013351,4
+499,Kaplan University-Cedar Rapids Campus,0.0,0
+500,Iowa State University,0.394699990749,1
+501,Iowa Wesleyan University,0.275200009346,1
+502,University of Iowa,0.481599986553,2
+503,Loras College,0.513000011444,2
+504,Luther College,0.744400024414,3
+505,Maharishi University of Management,0.294099986553,1
+506,Morningside College,0.437099993229,2
+507,Mount Mercy University,0.627900004387,3
+508,Ashford University,0.0337000004947,0
+509,University of Northern Iowa,0.378800004721,1
+510,Northwestern College,0.539200007915,2
+511,Saint Ambrose University,0.430799990892,2
+512,Simpson College,0.637300014496,3
+513,Upper Iowa University,0.23939999938,1
+514,Waldorf University,0.22879999876,1
+515,Wartburg College,0.64770001173,3
+516,William Penn University,0.202999994159,1
+517,Baker University,0.414900004864,2
+518,Benedictine College,0.436899989843,2
+519,Bethany College,0.252900004387,1
+520,Bethel College-North Newton,0.423700004816,2
+521,Central Christian College of Kansas,0.225799992681,1
+522,Emporia State University,0.217500001192,1
+523,Fort Hays State University,0.176499992609,0
+524,Barclay College,0.424199998379,2
+525,Friends University,0.136999994516,0
+526,Kansas Christian College,0.333299994469,1
+527,University of Kansas,0.371800005436,1
+528,Newman University,0.312999993563,1
+529,Kansas State University,0.275099992752,1
+530,Kansas Wesleyan University,0.239099994302,1
+531,Manhattan Christian College,0.295500010252,1
+532,McPherson College,0.444400012493,2
+533,MidAmerica Nazarene University,0.331699997187,1
+534,Ottawa University-Ottawa,0.199000000954,0
+535,Pittsburg State University,0.243300005794,1
+536,University of Saint Mary,0.26550000906,1
+537,Southwestern College,0.424100011587,2
+538,Sterling College,0.293300002813,1
+539,Tabor College,0.38299998641,1
+540,Washburn University,0.127499997616,0
+541,Wichita State University,0.19470000267,0
+542,Alice Lloyd College,0.449699997902,2
+543,Asbury University,0.55989998579,2
+544,Bellarmine University,0.530900001526,2
+545,Berea College,0.44549998641,2
+546,Brescia University,0.107100002468,0
+547,Campbellsville University,0.269899994135,1
+548,Centre College,0.800599992275,4
+549,Clear Creek Baptist Bible College,0.461499989033,2
+550,University of the Cumberlands,0.250999987125,1
+551,Eastern Kentucky University,0.193000003695,0
+552,Georgetown College,0.445899993181,2
+553,Kentucky Mountain Bible College,0.214300006628,1
+554,Kentucky State University,0.0657000020146,0
+555,Kentucky Wesleyan College,0.369899988174,1
+556,University of Kentucky,0.327499985695,1
+557,Kentucky Christian University,0.25,1
+558,Lindsey Wilson College,0.185299992561,0
+559,University of Louisville,0.359200000763,1
+560,Midway University,0.24169999361,1
+561,Morehead State University,0.240500003099,1
+562,Murray State University,0.286199986935,1
+563,Northern Kentucky University,0.12839999795,0
+564,University of Pikeville,0.253100007772,1
+565,Saint Catharine College,0.307700008154,1
+566,Spalding University,0.068599998951,0
+567,Thomas More College,0.321299999952,1
+568,Transylvania University,0.631699979305,3
+569,Union College,0.167999997735,0
+570,Western Kentucky University,0.26519998908,1
+571,Centenary College of Louisiana,0.422800004482,2
+572,Dillard University,0.24279999733,1
+573,Grambling State University,0.12160000205,0
+574,Louisiana State University-Alexandria,0.107699997723,0
+575,Louisiana State University and Agricultural & Mechanical College,0.370299994946,1
+576,Louisiana State University-Shreveport,0.117499999702,0
+577,Louisiana College,0.279799997807,1
+578,Louisiana Tech University,0.300599992275,1
+579,Loyola University New Orleans,0.509400010109,2
+580,McNeese State University,0.163599997759,0
+581,University of New Orleans,0.131400004029,0
+582,Nicholls State University,0.188700005412,0
+583,University of Louisiana at Monroe,0.190099999309,0
+584,Northwestern State University of Louisiana,0.206799998879,1
+585,University of Holy Cross,0.0693000033498,0
+586,Our Lady of the Lake College,0.363599985838,1
+587,Saint Joseph Seminary College,1.0,5
+588,Southeastern Louisiana University,0.139200001955,0
+589,Southern University and A & M College,0.0599999986589,0
+590,Southern University at New Orleans,0.0329999998212,0
+591,University of Louisiana at Lafayette,0.145400002599,0
+592,Tulane University of Louisiana,0.695100009441,3
+593,Xavier University of Louisiana,0.278100013733,1
+594,College of the Atlantic,0.565199971199,2
+595,Bates College,0.833000004292,4
+596,Bowdoin College,0.860700011253,4
+597,Colby College,0.852699995041,4
+598,Husson University,0.210299998522,1
+599,University of Maine at Augusta,0.0173000004143,0
+600,University of Maine at Farmington,0.359400004148,1
+601,University of Maine at Fort Kent,0.293500006199,1
+602,University of Maine at Machias,0.218999996781,1
+603,University of Maine,0.371300011873,1
+604,Maine Maritime Academy,0.508499979973,2
+605,University of Maine at Presque Isle,0.25830000639,1
+606,University of New England,0.530399978161,2
+607,Maine College of Art,0.388300001621,1
+608,Saint Joseph's College of Maine,0.570100009441,2
+609,University of Southern Maine,0.12729999423,0
+610,Thomas College,0.228200003505,1
+611,Unity College,0.558300018311,2
+612,University of Baltimore,0.184000000358,0
+613,Bowie State University,0.0782999992371,0
+614,Capitol Technology University,0.205099999905,1
+615,Washington Adventist University,0.168400004506,0
+616,Coppin State University,0.0491000004113,0
+617,Frostburg State University,0.19509999454,0
+618,Goucher College,0.569400012493,2
+619,Kaplan University-Hagerstown Campus,0.0,0
+620,Hood College,0.581200003624,2
+621,Johns Hopkins University,0.866900026798,4
+622,Loyola University Maryland,0.773899972439,3
+623,University of Maryland-University College,0.0467000007629,0
+624,University of Maryland-Baltimore County,0.341500014067,1
+625,University of Maryland-College Park,0.669900000095,3
+626,Maryland Institute College of Art,0.642499983311,3
+627,University of Maryland Eastern Shore,0.191699996591,0
+628,Morgan State University,0.11819999665,0
+629,Mount St Mary's University,0.575600028038,2
+630,Ner Israel Rabbinical College,0.163299992681,0
+631,Notre Dame of Maryland University,0.504800021648,2
+632,Salisbury University,0.444900006056,2
+633,St Mary's College of Maryland,0.724900007248,3
+634,Sojourner-Douglass College,0.169200003147,0
+635,St John's College,0.692799985409,3
+636,Towson University,0.428299993277,2
+637,Stevenson University,0.480800002813,2
+638,Washington College,0.701200008392,3
+639,McDaniel College,0.617399990559,3
+640,American International College,0.275700002909,1
+641,Amherst College,0.869899988174,4
+642,Anna Maria College,0.330599993467,1
+643,Assumption College,0.663399994373,3
+644,Babson College,0.837999999523,4
+645,Boston Baptist College,0.291700005531,1
+646,Bay Path University,0.471300005913,2
+647,Bay State College,0.122800000012,0
+648,Becker College,0.159700006247,0
+649,Bentley University,0.827000021935,4
+650,Berklee College of Music,0.399699985981,1
+651,Boston Architectural College,0.0,0
+652,Boston College,0.880900025368,4
+653,The Boston Conservatory,0.572399973869,2
+654,Boston University,0.795300006866,3
+655,Brandeis University,0.852800011635,4
+656,Bridgewater State University,0.281399995089,1
+657,Cambridge College,0.0294000003487,0
+658,Clark University,0.723500013351,3
+659,Curry College,0.364100009203,1
+660,Dean College,0.43180000782,2
+661,Eastern Nazarene College,0.395500004292,1
+662,Emerson College,0.774600028992,3
+663,Emmanuel College,0.558300018311,2
+664,Endicott College,0.706900000572,3
+665,Fisher College,0.238100007176,1
+666,Fitchburg State University,0.297500014305,1
+667,Framingham State University,0.330700010061,1
+668,Gordon College,0.611000001431,3
+669,Hampshire College,0.632399976254,3
+670,Harvard University,0.857500016689,4
+671,Hellenic College-Holy Cross Greek Orthodox School of Theology,0.529399991035,2
+672,College of the Holy Cross,0.900900006294,4
+673,Lasell College,0.521799981594,2
+674,Lesley University,0.448599994183,2
+675,University of Massachusetts-Lowell,0.271499991417,1
+676,University of Massachusetts-Amherst,0.627900004387,3
+677,University of Massachusetts-Boston,0.158800005913,0
+678,MCPHS University,0.507499992847,2
+679,Massachusetts College of Art and Design,0.516499996185,2
+680,Massachusetts Institute of Technology,0.811699986458,4
+681,Massachusetts Maritime Academy,0.549199998379,2
+682,Merrimack College,0.628499984741,3
+683,Montserrat College of Art,0.487500011921,2
+684,Mount Holyoke College,0.762099981308,3
+685,Mount Ida College,0.321399986744,1
+686,School of the Museum of Fine Arts at Tufts University,0.282799988985,1
+687,The New England Conservatory of Music,0.734200000763,3
+688,Newbury College,0.270300000906,1
+689,Nichols College,0.447600007057,2
+690,Massachusetts College of Liberal Arts,0.335399985313,1
+691,The New England Institute of Art,0.281399995089,1
+692,Northeastern University,0.0,0
+693,College of Our Lady of the Elms,0.527400016785,2
+694,Pine Manor College,0.186700001359,0
+695,Regis College,0.371300011873,1
+696,Salem State University,0.225099995732,1
+697,Simmons College,0.615400016308,3
+698,Smith College,0.819599986076,4
+699,Springfield College,0.615899980068,3
+700,University of Massachusetts-Dartmouth,0.274300009012,1
+701,Stonehill College,0.793399989605,3
+702,Suffolk University,0.389899998903,1
+703,Tufts University,0.879000008106,4
+704,Wellesley College,0.817099988461,4
+705,Wentworth Institute of Technology,0.490799993277,2
+706,Western New England University,0.503400027752,2
+707,Westfield State University,0.483500003815,2
+708,Wheaton College,0.745199978352,3
+709,Wheelock College,0.444400012493,2
+710,Williams College,0.88480001688,4
+711,Worcester Polytechnic Institute,0.743399977684,3
+712,Worcester State University,0.312400013208,1
+713,Adrian College,0.437799990177,2
+714,Albion College,0.612399995327,3
+715,Alma College,0.574800014496,2
+716,Andrews University,0.323000013828,1
+717,Aquinas College,0.303299993277,1
+718,Baker College of Owosso,0.022199999541,0
+719,Baker College,0.0168999992311,0
+720,Calvin College,0.576499998569,2
+721,Central Michigan University,0.205099999905,1
+722,Cleary University,0.322600007057,1
+723,College for Creative Studies,0.349599987268,1
+724,Davenport University,0.240299999714,1
+725,University of Detroit Mercy,0.363599985838,1
+726,Eastern Michigan University,0.124099999666,0
+727,Ferris State University,0.213699996471,1
+728,Kettering University,0.117899999022,0
+729,Grace Bible College,0.211500003934,1
+730,Cornerstone University,0.253699988127,1
+731,Grand Valley State University,0.313499987125,1
+732,Great Lakes Christian College,0.178599998355,0
+733,Hope College,0.701900005341,3
+734,Kalamazoo College,0.766499996185,3
+735,Lake Superior State University,0.179600000381,0
+736,Lawrence Technological University,0.119800001383,0
+737,Madonna University,0.206900000572,1
+738,Marygrove College,0.0526000000536,0
+739,Rochester College,0.247600004077,1
+740,University of Michigan-Ann Arbor,0.75569999218,3
+741,Michigan State University,0.528500020504,2
+742,Michigan Technological University,0.254999995232,1
+743,University of Michigan-Dearborn,0.160199999809,0
+744,University of Michigan-Flint,0.0922000035644,0
+745,Baker College of Muskegon,0.0,0
+746,Northern Michigan University,0.216900005937,1
+747,Northwood University,0.400499999523,2
+748,Oakland University,0.159700006247,0
+749,Olivet College,0.269499987364,1
+750,Kuyper College,0.516099989414,2
+751,Sacred Heart Major Seminary,0.0,0
+752,Saginaw Valley State University,0.0873999968171,0
+753,Siena Heights University,0.246199995279,1
+754,Spring Arbor University,0.334199994802,1
+755,Finlandia University,0.20000000298,1
+756,Wayne State University,0.107500001788,0
+757,Western Michigan University,0.231399998069,1
+758,Academy College,0.0,0
+759,Augsburg College,0.472000002861,2
+760,Bemidji State University,0.265300005674,1
+761,Bethany Lutheran College,0.397799998522,1
+762,Bethel University,0.645600020885,3
+763,Carleton College,0.909799993038,4
+764,Concordia College at Moorhead,0.664900004864,3
+765,Concordia University-Saint Paul,0.284399986267,1
+766,Martin Luther College,0.502900004387,2
+767,Globe University-Woodbury,0.333299994469,1
+768,Gustavus Adolphus College,0.803600013256,4
+769,Hamline University,0.563499987125,2
+770,The Art Institutes International-Minnesota,0.240600004792,1
+771,Macalester College,0.838900029659,4
+772,Minnesota State University-Mankato,0.222699999809,1
+773,Argosy University-Twin Cities,0.5,2
+774,Metropolitan State University,0.101700000465,0
+775,University of Minnesota-Twin Cities,0.584599971771,2
+776,University of Minnesota-Crookston,0.32769998908,1
+777,Minneapolis College of Art and Design,0.582499980927,2
+778,Herzing University-Minneapolis,0.0,0
+779,Crossroads College,0.27270001173,1
+780,University of Minnesota-Duluth,0.343400001526,1
+781,University of Minnesota-Morris,0.536199986935,2
+782,Minnesota School of Business-Richfield,0.375,1
+783,Minnesota State University Moorhead,0.233500003815,1
+784,National American University-Roseville,0.20000000298,1
+785,Sanford-Brown College-Mendota Heights,0.335900008678,1
+786,North Central University,0.266000002623,1
+787,University of Northwestern-St Paul,0.470899999142,2
+788,Northwestern Health Sciences University,0.0,0
+789,Oak Hills Christian College,0.0,0
+790,College of Saint Benedict,0.741800010204,3
+791,Saint Cloud State University,0.181500002742,0
+792,Saint Johns University,0.720200002193,3
+793,Saint Mary's University of Minnesota,0.54699999094,2
+794,St Olaf College,0.858500003815,4
+795,Crown College,0.434500008821,2
+796,The College of Saint Scholastica,0.546100020409,2
+797,University of St Thomas,0.599500000477,2
+798,St Catherine University,0.372900009155,1
+799,Rasmussen College-Minnesota,0.0,0
+800,Southwest Minnesota State University,0.208000004292,1
+801,Winona State University,0.316399991512,1
+802,Alcorn State University,0.19509999454,0
+803,Belhaven University,0.342000007629,1
+804,Blue Mountain College,0.346199989319,1
+805,Delta State University,0.150999993086,0
+806,Jackson State University,0.188700005412,0
+807,Millsaps College,0.620299994946,3
+808,University of Mississippi,0.370000004768,1
+809,Mississippi University for Women,0.225899994373,1
+810,Mississippi Valley State University,0.127800002694,0
+811,Mississippi College,0.358099997044,1
+812,Mississippi State University,0.301499992609,1
+813,Rust College,0.0975999981165,0
+814,Southeastern Baptist College,0.0,0
+815,University of Southern Mississippi,0.250200003386,1
+816,Tougaloo College,0.286900013685,1
+817,William Carey University,0.446200013161,2
+818,Avila University,0.245900005102,1
+819,Baptist Bible College,0.211799994111,1
+820,Cox College,0.571399986744,2
+821,Calvary University,0.300000011921,1
+822,Central Christian College of the Bible,0.132100000978,0
+823,Central Methodist University-College of Liberal Arts and Sciences,0.36669999361,1
+824,University of Central Missouri,0.292499989271,1
+825,Cleveland University-Kansas City,0.0,0
+826,Columbia College,0.27919998765,1
+827,Conception Seminary College,0.0,0
+828,Culver-Stockton College,0.343600004911,1
+829,Drury University,0.446299999952,2
+830,Evangel University,0.34319999814,1
+831,Fontbonne University,0.235300004482,1
+832,Hannibal-LaGrange University,0.257899999619,1
+833,Harris-Stowe State University,0.00730000017211,0
+834,Kansas City Art Institute,0.412999987602,2
+835,Kenrick Glennon Seminary,1.0,5
+836,Lincoln University,0.0899000018835,0
+837,Lindenwood University,0.291700005531,1
+838,Maryville University of Saint Louis,0.468600004911,2
+839,Midwestern Baptist Theological Seminary,0.222200006247,1
+840,Westwood College-O'Hare Airport,0.227599993348,1
+841,Missouri Baptist University,0.281399995089,1
+842,Missouri Southern State University,0.15569999814,0
+843,Missouri Tech,0.0,0
+844,Missouri Valley College,0.151099994779,0
+845,Missouri Western State University,0.152700006962,0
+846,University of Missouri-Columbia,0.46020001173,2
+847,University of Missouri-Kansas City,0.224500000477,1
+848,Missouri University of Science and Technology,0.244200006127,1
+849,University of Missouri-St Louis,0.210500001907,1
+850,Truman State University,0.567499995232,2
+851,Northwest Missouri State University,0.251199990511,1
+852,Ozark Christian College,0.10000000149,0
+853,College of the Ozarks,0.619000017643,3
+854,Park University,0.123000003397,0
+855,Ranken Technical College,0.10339999944,0
+856,Rockhurst University,0.622900009155,3
+857,Everest College-Springfield,0.0,0
+858,Saint Louis University,0.581900000572,2
+859,Sanford-Brown College-Fenton,0.39390000701,1
+860,Saint Louis Christian College,0.1738999933,0
+861,St Louis College of Pharmacy,0.662400007248,3
+862,Southwest Baptist University,0.349700003862,1
+863,Stephens College,0.463999986649,2
+864,Southeast Missouri State University,0.294299989939,1
+865,Missouri State University-Springfield,0.310000002384,1
+866,Washington University in St Louis,0.902000010014,4
+867,Webster University,0.425099998713,2
+868,Westminster College,0.5041000247,2
+869,William Jewell College,0.573599994183,2
+870,William Woods University,0.434799998999,2
+871,Carroll College,0.476599991322,2
+872,Montana State University-Billings,0.103500001132,0
+873,University of Great Falls,0.261700004339,1
+874,Montana Tech of the University of Montana,0.171700000763,0
+875,Montana State University,0.196099996567,0
+876,The University of Montana,0.252000004053,1
+877,Montana State University-Northern,0.0966000035405,0
+878,Rocky Mountain College,0.268999993801,1
+879,Salish Kootenai College,0.255800008774,1
+880,The University of Montana-Western,0.211899995804,1
+881,Bellevue University,0.147100001574,0
+882,Clarkson College,0.111100003123,0
+883,Bryan College of Health Sciences,0.0399999991059,0
+884,Chadron State College,0.173700004816,0
+885,Concordia University-Nebraska,0.457899987698,2
+886,Creighton University,0.65750002861,3
+887,Doane University-Arts & Sciences,0.546599984169,2
+888,Grace University,0.209700003266,1
+889,Hastings College,0.478100001812,2
+890,University of Nebraska at Kearney,0.227699995041,1
+891,Kaplan University-Lincoln Campus,0.0,0
+892,Nebraska Methodist College of Nursing & Allied Health,0.405400007963,2
+893,Midland University,0.426800012589,2
+894,Nebraska Christian College of Hope International University,0.1053000018,0
+895,University of Nebraska at Omaha,0.163000002503,0
+896,Kaplan University-Omaha Campus,0.0,0
+897,Nebraska Wesleyan University,0.550899982452,2
+898,University of Nebraska-Lincoln,0.330700010061,1
+899,Peru State College,0.109499998391,0
+900,College of Saint Mary,0.394699990749,1
+901,Union College,0.270300000906,1
+902,Wayne State College,0.226600006223,1
+903,York College,0.241099998355,1
+904,The Art Institute of Las Vegas,0.187199994922,0
+905,University of Nevada-Las Vegas,0.139799997211,0
+906,University of Nevada-Reno,0.206599995494,1
+907,Great Basin College,0.0333000011742,0
+908,Sierra Nevada College,0.29359999299,1
+909,Colby-Sawyer College,0.36700001359,1
+910,Daniel Webster College,0.346799999475,1
+911,Dartmouth College,0.87760001421,4
+912,Franklin Pierce University,0.390300005674,1
+913,Mount Washington College,0.115400001407,0
+914,Northeast Catholic College,0.571399986744,2
+915,New England College,0.290699988604,1
+916,Southern New Hampshire University,0.422100007534,2
+917,University of New Hampshire-Main Campus,0.617999970913,3
+918,Keene State College,0.518299996853,2
+919,University of New Hampshire at Manchester,0.305599987507,1
+920,Plymouth State University,0.437900006771,2
+921,Rivier University,0.39019998908,1
+922,Saint Anselm College,0.702000021935,3
+923,Granite State College,0.0,0
+924,Thomas More College of Liberal Arts,0.3125,1
+925,Berkeley College-Woodland Park,0.211400002241,1
+926,Bloomfield College,0.0586999990046,0
+927,Caldwell University,0.510900020599,2
+928,Centenary University,0.606500029564,3
+929,Drew University,0.569199979305,2
+930,Fairleigh Dickinson University-Metropolitan Campus,0.319000005722,1
+931,Felician University,0.171399995685,0
+932,Fairleigh Dickinson University-Florham Campus,0.41740000248,2
+933,Georgian Court University,0.24699999392,1
+934,Rowan University,0.427599996328,2
+935,New Jersey City University,0.0746000036597,0
+936,Kean University,0.184200003743,0
+937,Monmouth University,0.492700010538,2
+938,Montclair State University,0.361999988556,1
+939,New Jersey Institute of Technology,0.23749999702,1
+940,Princeton University,0.90189999342,4
+941,Rabbinical College of America,0.0,0
+942,Ramapo College of New Jersey,0.582700014114,2
+943,Rider University,0.525699973106,2
+944,Rutgers University-Camden,0.232899993658,1
+945,Rutgers University-New Brunswick,0.589999973774,2
+946,Rutgers University-Newark,0.366499990225,1
+947,Saint Peter's University,0.366200000048,1
+948,Seton Hall University,0.564999997616,2
+949,College of Saint Elizabeth,0.392399996519,1
+950,Stevens Institute of Technology,0.404100000858,2
+951,Stockton University,0.505999982357,2
+952,Talmudical Academy-New Jersey,0.0,0
+953,The College of New Jersey,0.725099980831,3
+954,William Paterson University of New Jersey,0.178599998355,0
+955,Eastern New Mexico University-Main Campus,0.111900001764,0
+956,Institute of American Indian and Alaska Native Culture and Arts Development,0.0,0
+957,New Mexico Highlands University,0.0803000032902,0
+958,New Mexico Institute of Mining and Technology,0.220300003886,1
+959,University of New Mexico-Main Campus,0.145799994469,0
+960,New Mexico State University-Main Campus,0.155200004578,0
+961,Northern New Mexico College,0.0,0
+962,Santa Fe University of Art and Design,0.171800002456,0
+963,University of the Southwest,0.0920000001788,0
+964,Western New Mexico University,0.0702000036836,0
+965,Vaughn College of Aeronautics and Technology,0.238100007176,1
+966,Adelphi University,0.540300011635,2
+967,Globe Institute of Technology,0.125,0
+968,Albany College of Pharmacy and Health Sciences,0.552600026131,2
+969,Alfred University,0.384499996901,1
+970,American Musical and Dramatic Academy,0.632799983025,3
+971,Bard College,0.660899996758,3
+972,Barnard College,0.817700028419,4
+973,Berkeley College-New York,0.230199992657,1
+974,Beth Hatalmud Rabbinical College,0.0,0
+975,Boricua College,0.411799997091,2
+976,Briarcliffe College,0.20000000298,1
+977,Canisius College,0.566299974918,2
+978,Cazenovia College,0.547699987888,2
+979,Central Yeshiva Tomchei Tmimim Lubavitz,0.0,0
+980,Clarkson University,0.554499983788,2
+981,Colgate University,0.896899998188,4
+982,Metropolitan College of New York,0.3287999928,1
+983,Columbia University in the City of New York,0.879199981689,4
+984,Concordia College-New York,0.384600013494,1
+985,Cooper Union for the Advancement of Science and Art,0.726800024509,3
+986,Cornell University,0.86779999733,4
+987,CUNY Bernard M Baruch College,0.354000002146,1
+988,CUNY Brooklyn College,0.244299992919,1
+989,College of Staten Island CUNY,0.212099999189,1
+990,CUNY City College,0.104400001466,0
+991,CUNY Hunter College,0.223800003529,1
+992,CUNY John Jay College of Criminal Justice,0.223399996758,1
+993,CUNY Lehman College,0.140799999237,0
+994,CUNY Medgar Evers College,0.0406999997795,0
+995,CUNY New York City College of Technology,0.0370000004768,0
+996,CUNY Queens College,0.270999997854,1
+997,CUNY York College,0.0784000009298,0
+998,D'Youville College,0.231499999762,1
+999,Daemen College,0.271600008011,1
+1000,Yeshiva of Far Rockaway Derech Ayson Rabbinical Seminary,0.526300013065,2
+1001,Dominican College of Blauvelt,0.200699999928,1
+1002,Dowling College,0.177200004458,0
+1003,Elmira College,0.5583999753,2
+1004,Five Towns College,0.281899988651,1
+1005,Fordham University,0.747799992561,3
+1006,Hamilton College,0.85900002718,4
+1007,Hartwick College,0.504499971867,2
+1008,Hilbert College,0.357800006866,1
+1009,Hobart William Smith Colleges,0.742600023746,3
+1010,Hofstra University,0.49849998951,2
+1011,Houghton College,0.595700025558,2
+1012,Iona College,0.509199976921,2
+1013,Ithaca College,0.705799996853,3
+1014,Jewish Theological Seminary of America,0.521700024605,2
+1015,The Juilliard School,0.796599984169,3
+1016,Kehilath Yakov Rabbinical Seminary,0.0,0
+1017,Keuka College,0.363000005484,1
+1018,LIM College,0.431499987841,2
+1019,Le Moyne College,0.611800014973,3
+1020,LIU Brooklyn,0.0979000031948,0
+1021,LIU Post,0.223199993372,1
+1022,Machzikei Hadath Rabbinical College,0.0,0
+1023,Manhattan College,0.654299974442,3
+1024,Manhattan School of Music,0.660199999809,3
+1025,Manhattanville College,0.567200005054,2
+1026,Marist College,0.684700012207,3
+1027,Marymount Manhattan College,0.330799996853,1
+1028,Medaille College,0.305200010538,1
+1029,Mercy College,0.145600005984,0
+1030,Mesivta Torah Vodaath Rabbinical Seminary,0.0,0
+1031,Mesivta of Eastern Parkway-Yeshiva Zichron Meilech,0.0,0
+1032,Mesivtha Tifereth Jerusalem of America,0.0,0
+1033,Mirrer Yeshiva Cent Institute,0.0,0
+1034,Molloy College,0.405200004578,2
+1035,Monroe College,0.567700028419,2
+1036,Mount Saint Mary College,0.442099988461,2
+1037,College of Mount Saint Vincent,0.390399992466,1
+1038,Nazareth College,0.649699985981,3
+1039,The College of New Rochelle,0.170599997044,0
+1040,The New School,0.481999993324,2
+1041,New York University,0.715600013733,3
+1042,Niagara University,0.58939999342,2
+1043,New York Institute of Technology,0.227599993348,1
+1044,New York School of Interior Design,0.0,0
+1045,Nyack College,0.241099998355,1
+1046,Ohr Hameir Theological Seminary,0.0,0
+1047,Pace University-New York,0.364499986172,1
+1048,Paul Smiths College of Arts and Science,0.291000008583,1
+1049,Davis College,0.268299996853,1
+1050,Pratt Institute-Main,0.42429998517,2
+1051,Rabbinical Academy Mesivta Rabbi Chaim Berlin,0.0,0
+1052,Rabbinical College Bobover Yeshiva Bnei Zion,0.0,0
+1053,Rabbinical College of Ch'san Sofer New York,0.0,0
+1054,Rabbinical College Beth Shraga,0.0,0
+1055,Rabbinical College of Long Island,0.0,0
+1056,Rabbinical Seminary of America,0.076099999249,0
+1057,Rensselaer Polytechnic Institute,0.614799976349,3
+1058,Roberts Wesleyan College,0.51289999485,2
+1059,Rochester Institute of Technology,0.301299989223,1
+1060,University of Rochester,0.730099976063,3
+1061,The Sage Colleges,0.5,2
+1062,St Bonaventure University,0.550599992275,2
+1063,St Francis College,0.282700002193,1
+1064,St Lawrence University,0.79549998045,3
+1065,The College of Saint Rose,0.543600022793,2
+1066,St. Thomas Aquinas College,0.39770001173,1
+1067,Sarah Lawrence College,0.706900000572,3
+1068,Sh'or Yoshuv Rabbinical College,0.0,0
+1069,Siena College,0.744799971581,3
+1070,Skidmore College,0.84659999609,4
+1071,St. Joseph's College-New York,0.531799972057,2
+1072,Saint John Fisher College,0.597500026226,2
+1073,St John's University-New York,0.400999993086,2
+1074,SUNY College of Technology at Alfred,0.417499989271,2
+1075,SUNY College of Technology at Canton,0.186700001359,0
+1076,SUNY College of Technology at Delhi,0.322600007057,1
+1077,SUNY College of Agriculture and Technology at Cobleskill,0.329299986362,1
+1078,Farmingdale State College,0.258100003004,1
+1079,Morrisville State College,0.294099986553,1
+1080,SUNY at Albany,0.544200003147,2
+1081,SUNY at Binghamton,0.679400026798,3
+1082,University at Buffalo,0.526099979877,2
+1083,Stony Brook University,0.475699990988,2
+1084,SUNY College of Environmental Science and Forestry,0.467700004578,2
+1085,SUNY Polytechnic Institute,0.241500005126,1
+1086,SUNY College at Brockport,0.497500002384,2
+1087,SUNY Buffalo State,0.224299997091,1
+1088,SUNY Cortland,0.445399999619,2
+1089,SUNY at Fredonia,0.479299992323,2
+1090,SUNY College at Geneseo,0.661099970341,3
+1091,State University of New York at New Paltz,0.551800012589,2
+1092,SUNY Oneonta,0.558000028133,2
+1093,SUNY College at Oswego,0.442099988461,2
+1094,SUNY College at Potsdam,0.362800002098,1
+1095,SUNY at Purchase College,0.575500011444,2
+1096,SUNY College at Old Westbury,0.175999999046,0
+1097,SUNY College at Plattsburgh,0.398000001907,1
+1098,SUNY Empire State College,0.0772000029683,0
+1099,SUNY Maritime College,0.247500002384,1
+1100,Syracuse University,0.687399983406,3
+1101,Talmudical Seminary Oholei Torah,0.0399999991059,0
+1102,Talmudical Institute of Upstate New York,0.0,0
+1103,Torah Temimah Talmudical Seminary,0.0,0
+1104,Touro College,0.466199994087,2
+1105,Union College,0.798300027847,3
+1106,United Talmudical Seminary,0.0,0
+1107,United States Merchant Marine Academy,0.631900012493,3
+1108,Utica College,0.301099985838,1
+1109,Vassar College,0.877699971199,4
+1110,Villa Maria College,0.238100007176,1
+1111,School of Visual Arts,0.56970000267,2
+1112,Wagner College,0.582499980927,2
+1113,Webb Institute,0.86360001564,4
+1114,Wells College,0.548399984837,2
+1115,Yeshiva Karlin Stolin,0.0,0
+1116,Yeshivat Mikdash Melech,0.0,0
+1117,Yeshiva Derech Chaim,0.0,0
+1118,Yeshiva of Nitra Rabbinical College,0.0,0
+1119,Yeshiva Shaar Hatorah,0.468800008297,2
+1120,Yeshiva University,0.580200016499,2
+1121,Yeshivath Viznitz,0.0,0
+1122,Yeshivath Zichron Moshe,0.0,0
+1123,The Art Institute of Charlotte,0.226699993014,1
+1124,Appalachian State University,0.441100001335,2
+1125,Barton College,0.287400007248,1
+1126,Belmont Abbey College,0.325199991465,1
+1127,Bennett College,0.281300008297,1
+1128,Brevard College,0.355199992657,1
+1129,Campbell University,0.339199990034,1
+1130,Catawba College,0.449400007725,2
+1131,Chowan University,0.146400004625,0
+1132,Davidson College,0.908299982548,4
+1133,Duke University,0.871299982071,4
+1134,East Carolina University,0.325100004673,1
+1135,Elizabeth City State University,0.149399995804,0
+1136,Elon University,0.757399976254,3
+1137,Fayetteville State University,0.171299993992,0
+1138,Gardner-Webb University,0.374099999666,1
+1139,Greensboro College,0.213300004601,1
+1140,Guilford College,0.49509999156,2
+1141,Heritage Bible College,0.0,0
+1142,High Point University,0.592000007629,2
+1143,John Wesley University,0.166700005531,0
+1144,Johnson C Smith University,0.306899994612,1
+1145,Lees-McRae College,0.296900004148,1
+1146,Lenoir-Rhyne University,0.405800014734,2
+1147,Livingstone College,0.105400003493,0
+1148,Mars Hill University,0.290100008249,1
+1149,Meredith College,0.491200000048,2
+1150,Methodist University,0.153500005603,0
+1151,Miller-Motte College-Wilmington,0.5,2
+1152,Montreat College,0.25,1
+1153,University of Mount Olive,0.316500008106,1
+1154,North Carolina A & T State University,0.214800000191,1
+1155,University of North Carolina at Asheville,0.384000003338,1
+1156,University of North Carolina at Chapel Hill,0.803699970245,4
+1157,University of North Carolina at Charlotte,0.250400006771,1
+1158,University of North Carolina at Greensboro,0.307200014591,1
+1159,North Carolina Central University,0.218299999833,1
+1160,University of North Carolina School of the Arts,0.585399985313,2
+1161,North Carolina State University at Raleigh,0.435400009155,2
+1162,North Carolina Wesleyan College,0.206000000238,1
+1163,University of North Carolina Wilmington,0.491499990225,2
+1164,William Peace University,0.288199990988,1
+1165,University of North Carolina at Pembroke,0.149000003934,0
+1166,Pfeiffer University,0.25,1
+1167,Piedmont International University,0.324999988079,1
+1168,Queens University of Charlotte,0.534200012684,2
+1169,Mid-Atlantic Christian University,0.20000000298,1
+1170,Saint Augustine's University,0.179800003767,0
+1171,Salem College,0.610199987888,3
+1172,Shaw University,0.123800002038,0
+1173,St Andrews University,0.260899990797,1
+1174,Southeastern Baptist Theological Seminary,0.241400003433,1
+1175,Wake Forest University,0.827899992466,4
+1176,Warren Wilson College,0.417699992657,2
+1177,Wingate University,0.42460000515,2
+1178,Carolina Christian College,1.0,5
+1179,Winston-Salem State University,0.172900006175,0
+1180,Western Carolina University,0.398200005293,1
+1181,Rasmussen College-North Dakota,0.571399986744,2
+1182,Dickinson State University,0.114100001752,0
+1183,University of Jamestown,0.277200013399,1
+1184,University of Mary,0.289499998093,1
+1185,Mayville State University,0.190999999642,0
+1186,Minot State University,0.135499998927,0
+1187,University of North Dakota,0.233999997377,1
+1188,North Dakota State University-Main Campus,0.251700013876,1
+1189,Trinity Bible College and Graduate School,0.191499993205,0
+1190,Turtle Mountain Community College,0.0,0
+1191,Valley City State University,0.227300003171,1
+1192,University of Akron Main Campus,0.142499998212,0
+1193,Allegheny Wesleyan College,0.0625,0
+1194,Art Academy of Cincinnati,0.574500024319,2
+1195,Ashland University,0.41400000453,2
+1196,Baldwin Wallace University,0.509500026703,2
+1197,Bluffton University,0.529399991035,2
+1198,Bowling Green State University-Main Campus,0.320399999619,1
+1199,Capital University,0.507899999619,2
+1200,Case Western Reserve University,0.63639998436,3
+1201,Cedarville University,0.572499990463,2
+1202,Central State University,0.111500002444,0
+1203,Cincinnati Christian University,0.136800006032,0
+1204,University of Cincinnati-Main Campus,0.280499994755,1
+1205,Ohio Christian University,0.21250000596,1
+1206,Cleveland Institute of Art,0.611699998379,3
+1207,Cleveland Institute of Music,0.463400006294,2
+1208,Cleveland State University,0.149299994111,0
+1209,Columbus College of Art and Design,0.447699993849,2
+1210,University of Dayton,0.592899978161,2
+1211,Defiance College,0.42199999094,2
+1212,Denison University,0.788100004196,3
+1213,Bryant & Stratton College-Cleveland,0.0,0
+1214,The University of Findlay,0.434500008821,2
+1215,Franklin University,0.0491999983788,0
+1216,Gods Bible School and College,0.128999993205,0
+1217,Heidelberg University,0.353199988604,1
+1218,Hiram College,0.570999979973,2
+1219,John Carroll University,0.599500000477,2
+1220,Kent State University at Salem,0.0412000007927,0
+1221,Kent State University at Kent,0.308699995279,1
+1222,Kenyon College,0.88789999485,4
+1223,Kettering College,0.357100009918,1
+1224,Lake Erie College,0.365500003099,1
+1225,Lourdes University,0.125,0
+1226,Malone University,0.377900004387,1
+1227,Marietta College,0.522099971771,2
+1228,Mercy College of Ohio,0.218799993396,1
+1229,Miami University-Hamilton,0.0800999999046,0
+1230,Miami University-Middletown,0.0562999993563,0
+1231,Miami University-Oxford,0.655099987984,3
+1232,Mount Carmel College of Nursing,0.578899979591,2
+1233,University of Mount Union,0.506799995899,2
+1234,Mount Vernon Nazarene University,0.498600006104,2
+1235,Mount Saint Joseph University,0.379999995232,1
+1236,Muskingum University,0.374700009823,1
+1237,Notre Dame College,0.133900001645,0
+1238,University of Northwestern Ohio,0.203099995852,1
+1239,Oberlin College,0.758000016212,3
+1240,Ohio Dominican University,0.31740000844,1
+1241,Ohio Northern University,0.510500013828,2
+1242,Ohio State University-Lima Campus,0.208599999547,1
+1243,Ohio State University-Mansfield Campus,0.22650000453,1
+1244,Ohio State University-Marion Campus,0.212099999189,1
+1245,Ohio State University-Newark Campus,0.204500004649,1
+1246,Ohio State University-Main Campus,0.614499986172,3
+1247,Ohio University-Eastern Campus,0.13330000639,0
+1248,Ohio University-Chillicothe Campus,0.081200003624,0
+1249,Ohio University-Southern Campus,0.0701000019908,0
+1250,Ohio University-Lancaster Campus,0.0821999981999,0
+1251,Ohio University-Main Campus,0.48939999938,2
+1252,Ohio University-Zanesville Campus,0.136899992824,0
+1253,Ohio Wesleyan University,0.601100027561,3
+1254,Otterbein University,0.493200004101,2
+1255,Pontifical College Josephinum,0.90909999609,4
+1256,Rabbinical College Telshe,0.0,0
+1257,University of Rio Grande,0.172600001097,0
+1258,Shawnee State University,0.133399993181,0
+1259,Franciscan University of Steubenville,0.673600018024,3
+1260,Tiffin University,0.332399994135,1
+1261,University of Toledo,0.221000000834,1
+1262,Tri-State Bible College,0.0,0
+1263,Union Institute & University,0.0625,0
+1264,Urbana University,0.296499997377,1
+1265,Ursuline College,0.305599987507,1
+1266,Walsh University,0.341100007296,1
+1267,Wilberforce University,0.152999997139,0
+1268,Wilmington College,0.383700013161,1
+1269,Wittenberg University,0.647099971771,3
+1270,The College of Wooster,0.702700018883,3
+1271,Wright State University-Main Campus,0.214200004935,1
+1272,Wright State University-Lake Campus,0.233999997377,1
+1273,Xavier University,0.632399976254,3
+1274,Youngstown State University,0.101599998772,0
+1275,Bacone College,0.0335999988019,0
+1276,Oklahoma Wesleyan University,0.269699990749,1
+1277,Southern Nazarene University,0.316199988127,1
+1278,Cameron University,0.0965000018477,0
+1279,University of Central Oklahoma,0.122000001371,0
+1280,East Central University,0.171100005507,0
+1281,Randall University,0.25,1
+1282,Langston University,0.0623000003397,0
+1283,Spartan College of Aeronautics and Technology,0.81819999218,4
+1284,Northeastern State University,0.131899997592,0
+1285,Northwestern Oklahoma State University,0.148300006986,0
+1286,Oklahoma Christian University,0.262800008059,1
+1287,Oklahoma Panhandle State University,0.253199994564,1
+1288,Oklahoma State University-Main Campus,0.336699992418,1
+1289,Oklahoma Baptist University,0.412999987602,2
+1290,Oklahoma City University,0.483799993992,2
+1291,University of Oklahoma-Norman Campus,0.371699988842,1
+1292,Oklahoma State University Institute of Technology,0.0,0
+1293,Oral Roberts University,0.399399995804,1
+1294,Rogers State University,0.100599996746,0
+1295,St. Gregory's University,0.0379999987781,0
+1296,University of Science and Arts of Oklahoma,0.433499991894,2
+1297,Southeastern Oklahoma State University,0.116599999368,0
+1298,Southwestern Christian University,0.233300000429,1
+1299,Southwestern Oklahoma State University,0.1481000036,0
+1300,University of Tulsa,0.517400026321,2
+1301,The Art Institute of Portland,0.147100001574,0
+1302,Concordia University-Portland,0.3125,1
+1303,Eastern Oregon University,0.172499999404,0
+1304,New Hope Christian College-Eugene,0.111100003123,0
+1305,George Fox University,0.508700013161,2
+1306,ITT Technical Institute-Portland,0.0,0
+1307,Lewis & Clark College,0.713500022888,3
+1308,Linfield College-McMinnville Campus,0.611800014973,3
+1309,Marylhurst University,0.07689999789,0
+1310,Mount Angel Seminary,0.666700005531,3
+1311,Multnomah University,0.366200000048,1
+1312,Northwest Christian University,0.550000011921,2
+1313,Oregon Institute of Technology,0.162799999118,0
+1314,Oregon College of Art and Craft,0.40000000596,2
+1315,Oregon State University,0.306699991226,1
+1316,University of Oregon,0.454100012779,2
+1317,Pacific Northwest College of Art,0.163000002503,0
+1318,Pacific University,0.504299998283,2
+1319,Portland State University,0.168500006199,0
+1320,University of Portland,0.732699990273,3
+1321,Reed College,0.665700018406,3
+1322,Southern Oregon University,0.21780000627,1
+1323,Warner Pacific College,0.360000014305,1
+1324,Corban University,0.553799986839,2
+1325,Willamette University,0.690900027752,3
+1326,Western Oregon University,0.223399996758,1
+1327,Bryn Athyn College of the New Church,0.423099994659,2
+1328,Albright College,0.443599998951,2
+1329,Allegheny College,0.733099997044,3
+1330,DeSales University,0.639299988747,3
+1331,Alvernia University,0.386400014162,1
+1332,The Art Institute of Philadelphia,0.250600010157,1
+1333,The Art Institute of Pittsburgh,0.273799985647,1
+1334,Clarks Summit University,0.39359998703,1
+1335,Arcadia University,0.495799988508,2
+1336,Bloomsburg University of Pennsylvania,0.432700008154,2
+1337,Bryn Mawr College,0.762300014496,3
+1338,Bucknell University,0.851499974728,4
+1339,Cabrini University,0.417499989271,2
+1340,California University of Pennsylvania,0.380499988794,1
+1341,Carlow University,0.438100010157,2
+1342,Carnegie Mellon University,0.718200027943,3
+1343,Cedar Crest College,0.587599992752,2
+1344,Central Penn College,0.422399997711,2
+1345,Chatham University,0.46590000391,2
+1346,Chestnut Hill College,0.371100008488,1
+1347,Cheyney University of Pennsylvania,0.110699996352,0
+1348,Clarion University of Pennsylvania,0.29240000248,1
+1349,Curtis Institute of Music,0.20000000298,1
+1350,Delaware Valley University,0.512799978256,2
+1351,Dickinson College,0.807500004768,4
+1352,Drexel University,0.240999996662,1
+1353,Duquesne University,0.647499978542,3
+1354,East Stroudsburg University of Pennsylvania,0.36289998889,1
+1355,Eastern University,0.527100026608,2
+1356,Edinboro University of Pennsylvania,0.250999987125,1
+1357,Elizabethtown College,0.645699977875,3
+1358,Faith Theological Seminary,0.0908999964595,0
+1359,Franklin and Marshall College,0.824800014496,4
+1360,Gannon University,0.495700001717,2
+1361,Geneva College,0.56099998951,2
+1362,Gettysburg College,0.80110001564,4
+1363,Gwynedd Mercy University,0.37839999795,1
+1364,Haverford College,0.877699971199,4
+1365,Holy Family University,0.372799992561,1
+1366,Immaculata University,0.50830000639,2
+1367,Indiana University of Pennsylvania-Main Campus,0.341600000858,1
+1368,Juniata College,0.720200002193,3
+1369,Keystone College,0.235300004482,1
+1370,King's College,0.563499987125,2
+1371,Kutztown University of Pennsylvania,0.375299990177,1
+1372,La Roche College,0.267899990082,1
+1373,La Salle University,0.556699991226,2
+1374,Lafayette College,0.88330000639,4
+1375,Lancaster Bible College,0.43520000577,2
+1376,Lebanon Valley College,0.698700010777,3
+1377,Lehigh University,0.755200028419,3
+1378,Lincoln University,0.234500005841,1
+1379,Lock Haven University,0.278200000525,1
+1380,Lycoming College,0.523500025272,2
+1381,Mansfield University of Pennsylvania,0.375900000334,1
+1382,Marywood University,0.56400001049,2
+1383,Mercyhurst University,0.59659999609,2
+1384,Messiah College,0.746100008488,3
+1385,Millersville University of Pennsylvania,0.387199997902,1
+1386,Misericordia University,0.629599988461,3
+1387,Moore College of Art and Design,0.48109999299,2
+1388,Moravian College,0.653699994087,3
+1389,Mount Aloysius College,0.361600011587,1
+1390,Muhlenberg College,0.810699999332,4
+1391,Neumann University,0.34319999814,1
+1392,Pennsylvania State University-Penn State Erie-Behrend College,0.442799985409,2
+1393,Pennsylvania State University-Penn State New Kensington,0.219400003552,1
+1394,Pennsylvania State University-Penn State Shenango,0.128999993205,0
+1395,Pennsylvania State University-Penn State Wilkes-Barre,0.25150001049,1
+1396,Pennsylvania State University-Penn State Worthington Scranton,0.226799994707,1
+1397,Pennsylvania State University-Penn State Lehigh Valley,0.298500001431,1
+1398,Pennsylvania State University-Penn State Altoona,0.456699997187,2
+1399,Pennsylvania State University-Penn State Beaver,0.214800000191,1
+1400,Pennsylvania State University-Penn State Berks,0.33259999752,1
+1401,Pennsylvania State University-Penn State Harrisburg,0.429899990559,2
+1402,Pennsylvania State University-Penn State Brandywine,0.198500007391,0
+1403,Pennsylvania State University-Penn State DuBois,0.271100014448,1
+1404,Pennsylvania State University-Penn State Fayette- Eberly,0.328200012445,1
+1405,Pennsylvania State University-Penn State Hazleton,0.33259999752,1
+1406,Pennsylvania State University-Main Campus,0.655600011349,3
+1407,Pennsylvania State University-Penn State Greater Allegheny,0.239999994636,1
+1408,Pennsylvania State University-Penn State Mont Alto,0.253800004721,1
+1409,Pennsylvania State University-Penn State Abington,0.233600005507,1
+1410,Pennsylvania State University-Penn State Schuylkill,0.24279999733,1
+1411,Pennsylvania State University-Penn State York,0.256700009108,1
+1412,Peirce College,0.0,0
+1413,Pennsylvania Academy of the Fine Arts,0.555599987507,2
+1414,Pennsylvania College of Art and Design,0.354799985886,1
+1415,University of Pennsylvania,0.868700027466,4
+1416,Philadelphia University,0.491800010204,2
+1417,The University of the Arts,0.544000029564,2
+1418,Cairn University-Langhorne,0.13789999485,0
+1419,University of the Sciences,0.657299995422,3
+1420,University of Pittsburgh-Bradford,0.358000010252,1
+1421,University of Pittsburgh-Greensburg,0.328299999237,1
+1422,University of Pittsburgh-Johnstown,0.326599985361,1
+1423,University of Pittsburgh-Pittsburgh Campus,0.652700006962,3
+1424,Point Park University,0.507700026035,2
+1425,The Restaurant School at Walnut Hill College,0.0716999992728,0
+1426,Robert Morris University,0.457399994135,2
+1427,Rosemont College,0.3492000103,1
+1428,Saint Francis University,0.616500020027,3
+1429,Saint Joseph's University,0.670099973679,3
+1430,Saint Vincent College,0.683300018311,3
+1431,University of Scranton,0.738799989223,3
+1432,Seton Hill University,0.487599998713,2
+1433,Shippensburg University of Pennsylvania,0.371800005436,1
+1434,Slippery Rock University of Pennsylvania,0.490500003099,2
+1435,Saint Charles Borromeo Seminary-Overbrook,0.833299994469,4
+1436,Susquehanna University,0.712700009346,3
+1437,Swarthmore College,0.887099981308,4
+1438,Talmudical Yeshiva of Philadelphia,0.5,2
+1439,Temple University,0.413300007582,2
+1440,Thiel College,0.318599998951,1
+1441,Ursinus College,0.78820002079,3
+1442,University of Valley Forge,0.421799987555,2
+1443,Villanova University,0.853699982166,4
+1444,Washington & Jefferson College,0.721800029278,3
+1445,Waynesburg University,0.51859998703,2
+1446,West Chester University of Pennsylvania,0.437799990177,2
+1447,Westminster College,0.709800004959,3
+1448,Widener University,0.370499998331,1
+1449,Wilkes University,0.445399999619,2
+1450,Wilson College,0.287400007248,1
+1451,Yeshivath Beth Moshe,0.0,0
+1452,York College Pennsylvania,0.391400009394,1
+1453,Brown University,0.845399975777,4
+1454,Bryant University,0.734799981117,3
+1455,Johnson & Wales University-Providence,0.439500004053,2
+1456,Providence College,0.831799983978,4
+1457,Rhode Island College,0.144600003958,0
+1458,University of Rhode Island,0.385199993849,1
+1459,Rhode Island School of Design,0.685800015926,3
+1460,Roger Williams University,0.48219999671,2
+1461,Salve Regina University,0.638499975204,3
+1462,Northpoint Bible College,0.227300003171,1
+1463,Allen University,0.0460000000894,0
+1464,Anderson University,0.452499985695,2
+1465,Charleston Southern University,0.20759999752,1
+1466,Benedict College,0.151700004935,0
+1467,Bob Jones University,0.593900024891,2
+1468,Southern Wesleyan University,0.366200000048,1
+1469,College of Charleston,0.549000024796,2
+1470,Citadel Military College of South Carolina,0.590099990368,2
+1471,Claflin University,0.318899989128,1
+1472,Clemson University,0.609600007534,3
+1473,Coker College,0.375,1
+1474,Columbia International University,0.621999979019,3
+1475,Columbia College,0.375499993563,1
+1476,Converse College,0.544900000095,2
+1477,Erskine College,0.441700011492,2
+1478,Francis Marion University,0.15379999578,0
+1479,Furman University,0.798399984837,3
+1480,Lander University,0.29240000248,1
+1481,Limestone College,0.134299993515,0
+1482,Morris College,0.126699998975,0
+1483,Newberry College,0.262600004673,1
+1484,North Greenville University,0.395999997854,1
+1485,Presbyterian College,0.582000017166,2
+1486,University of South Carolina-Aiken,0.194999992847,0
+1487,University of South Carolina-Beaufort,0.138799995184,0
+1488,University of South Carolina-Columbia,0.556500017643,2
+1489,Coastal Carolina University,0.25720000267,1
+1490,South Carolina State University,0.149499997497,0
+1491,University of South Carolina-Upstate,0.231600001454,1
+1492,Voorhees College,0.184900000691,0
+1493,Winthrop University,0.343300014734,1
+1494,Wofford College,0.7132999897,3
+1495,Augustana University,0.495299994946,2
+1496,Black Hills State University,0.117399998009,0
+1497,Dakota State University,0.179299995303,0
+1498,Dakota Wesleyan University,0.348699986935,1
+1499,Mount Marty College,0.488900005817,2
+1500,National American University-Rapid City,0.0666999965906,0
+1501,National American University-Sioux Falls,0.0,0
+1502,Northern State University,0.195299997926,0
+1503,Oglala Lakota College,0.0153999999166,0
+1504,Presentation College,0.355899989605,1
+1505,South Dakota School of Mines and Technology,0.216100007296,1
+1506,South Dakota State University,0.291900008917,1
+1507,Sinte Gleska University,0.0,0
+1508,University of Sioux Falls,0.339199990034,1
+1509,University of South Dakota,0.31819999218,1
+1510,American Baptist College,0.10000000149,0
+1511,Aquinas College,0.0714000016451,0
+1512,Austin Peay State University,0.160199999809,0
+1513,Baptist Memorial College of Health Sciences,0.431400001049,2
+1514,Belmont University,0.560299992561,2
+1515,Bethel University,0.212699994445,1
+1516,Bryan College-Dayton,0.488299995661,2
+1517,Carson-Newman University,0.362599998713,1
+1518,Christian Brothers University,0.327800005674,1
+1519,Cumberland University,0.22159999609,1
+1520,Lipscomb University,0.448199987411,2
+1521,East Tennessee State University,0.196700006723,0
+1522,Fisk University,0.317799985409,1
+1523,Welch College,0.206300005317,1
+1524,Freed-Hardeman University,0.383100003004,1
+1525,Johnson University,0.521700024605,2
+1526,King University,0.418500006199,2
+1527,South College,0.230800002813,1
+1528,Lane College,0.192300006747,0
+1529,Le Moyne-Owen College,0.0666999965906,0
+1530,Lee University,0.392699986696,1
+1531,Lincoln Memorial University,0.149800002575,0
+1532,Martin Methodist College,0.4049000144,2
+1533,Maryville College,0.404000014067,2
+1534,Memphis College of Art,0.306899994612,1
+1535,University of Memphis,0.151099994779,0
+1536,Middle Tennessee State University,0.199300006032,0
+1537,Milligan College,0.55680000782,2
+1538,O'More College of Design,0.490599989891,2
+1539,Rhodes College,0.743200004101,3
+1540,Sewanee-The University of the South,0.757899999619,3
+1541,Southern Adventist University,0.174899995327,0
+1542,Tennessee Wesleyan University,0.30680000782,1
+1543,The University of Tennessee-Chattanooga,0.16099999845,0
+1544,The University of Tennessee-Knoxville,0.389299988747,1
+1545,The University of Tennessee-Martin,0.201800003648,1
+1546,Fountainhead College of Technology,0.285699993372,1
+1547,Tennessee State University,0.102200001478,0
+1548,Tennessee Technological University,0.228499993682,1
+1549,Tennessee Temple University,0.152199998498,0
+1550,Trevecca Nazarene University,0.398099988699,1
+1551,Tusculum College,0.212699994445,1
+1552,Union University,0.590300023556,2
+1553,Vanderbilt University,0.875599980354,4
+1554,Abilene Christian University,0.448799997568,2
+1555,Angelo State University,0.14390000701,0
+1556,Arlington Baptist College,0.20000000298,1
+1557,The Art Institute of Houston,0.265599995852,1
+1558,Austin College,0.7200999856,3
+1559,Baylor University,0.54650002718,2
+1560,Concordia University-Texas,0.192100003362,0
+1561,Texas A & M University-Corpus Christi,0.195299997926,0
+1562,Dallas Baptist University,0.379299998283,1
+1563,Dallas Christian College,0.310299992561,1
+1564,University of Dallas,0.633400022984,3
+1565,Career Point College,0.0,0
+1566,East Texas Baptist University,0.288100004196,1
+1567,Texas A & M University-Commerce,0.310000002384,1
+1568,South University-The Art Institute of Dallas,0.232400000095,1
+1569,Hallmark University,0.0,0
+1570,Hardin-Simmons University,0.363099992275,1
+1571,Houston Baptist University,0.258100003004,1
+1572,University of Houston-Downtown,0.028599999845,0
+1573,University of Houston,0.182699993253,0
+1574,Howard Payne University,0.351999998093,1
+1575,Huston-Tillotson University,0.128499999642,0
+1576,University of the Incarnate Word,0.194499999285,0
+1577,Jarvis Christian College,0.0405000001192,0
+1578,Lamar University,0.110299997032,0
+1579,Texas A & M International University,0.198699995875,0
+1580,LeTourneau University,0.347099989653,1
+1581,Lubbock Christian University,0.286199986935,1
+1582,University of Mary Hardin-Baylor,0.292600005865,1
+1583,McMurry University,0.228900000453,1
+1584,Midwestern State University,0.177300006151,0
+1585,University of North Texas,0.258899986744,1
+1586,Northwood University-Texas,0.287400007248,1
+1587,Our Lady of the Lake University,0.218999996781,1
+1588,The University of Texas Rio Grande Valley,0.170800000429,0
+1589,Texas Southmost College,0.103000000119,0
+1590,Paul Quinn College,0.0,0
+1591,Prairie View A & M University,0.275200009346,1
+1592,Rice University,0.818499982357,4
+1593,Saint Edward's University,0.535799980164,2
+1594,University of St Thomas,0.344700008631,1
+1595,Sam Houston State University,0.289999991655,1
+1596,Schreiner University,0.315800011158,1
+1597,St. Mary's University,0.442999988794,2
+1598,Southern Methodist University,0.673600018024,3
+1599,Southwestern Assemblies of God University,0.146699994802,0
+1600,Southwestern University,0.650399982929,3
+1601,Stephen F Austin State University,0.237900003791,1
+1602,Texas State University,0.266000002623,1
+1603,Southwestern Adventist University,0.294600009918,1
+1604,Southwestern Christian College,0.0,0
+1605,Sul Ross State University,0.137799993157,0
+1606,Tarleton State University,0.216600000858,1
+1607,Texas A & M University-Kingsville,0.168200001121,0
+1608,Texas A & M University-College Station,0.496300011873,2
+1609,The University of Texas at Arlington,0.175699993968,0
+1610,The University of Texas at Austin,0.522099971771,2
+1611,The University of Texas at Dallas,0.507300019264,2
+1612,The University of Texas at El Paso,0.121799997985,0
+1613,The University of Texas at Tyler,0.258599996567,1
+1614,Texas Christian University,0.587100028992,2
+1615,Texas College,0.0168999992311,0
+1616,Texas Lutheran University,0.310600012541,1
+1617,The University of Texas of the Permian Basin,0.19580000639,0
+1618,The University of Texas at San Antonio,0.107600003481,0
+1619,Texas Southern University,0.0645999982953,0
+1620,Texas Tech University,0.32570001483,1
+1621,Texas Wesleyan University,0.209000006318,1
+1622,Texas Woman's University,0.232999995351,1
+1623,Trinity University,0.720600008965,3
+1624,Wayland Baptist University,0.117899999022,0
+1625,West Texas A & M University,0.225400000811,1
+1626,Wiley College,0.0121999997646,0
+1627,Brigham Young University-Provo,0.295700013638,1
+1628,Brigham Young University-Hawaii,0.304100006819,1
+1629,Broadview University-West Jordan,0.5,2
+1630,Dixie State University,0.120700001717,0
+1631,Eagle Gate College-Murray,0.181799992919,0
+1632,ITT Technical Institute-Murray,0.0,0
+1633,Everest College-Salt Lake City,0.0,0
+1634,Southern Utah University,0.204099997878,1
+1635,Stevens-Henager College,0.269199997187,1
+1636,Stevens-Henager College,0.244599997997,1
+1637,Utah State University,0.228900000453,1
+1638,Utah Valley University,0.112999998033,0
+1639,University of Utah,0.243699997663,1
+1640,Weber State University,0.12120000273,0
+1641,Westminster College,0.47499999404,2
+1642,Bennington College,0.584200024605,2
+1643,Burlington College,0.315800011158,1
+1644,Castleton University,0.347799986601,1
+1645,Champlain College,0.522099971771,2
+1646,Goddard College,0.222200006247,1
+1647,Green Mountain College,0.406399995089,2
+1648,Johnson State College,0.186599999666,0
+1649,Lyndon State College,0.203600004315,1
+1650,Marlboro College,0.469900012016,2
+1651,Middlebury College,0.888899981976,4
+1652,New England Culinary Institute,0.438600003719,2
+1653,Norwich University,0.499099999666,2
+1654,Saint Michael's College,0.729300022125,3
+1655,College of St Joseph,0.243900001049,1
+1656,Southern Vermont College,0.243599995971,1
+1657,Sterling College,0.407400012016,2
+1658,Vermont Technical College,0.285699993372,1
+1659,University of Vermont,0.656700015068,3
+1660,Averett University,0.22650000453,1
+1661,Bluefield College,0.362500011921,1
+1662,Bridgewater College,0.55940002203,2
+1663,College of William and Mary,0.829800009727,4
+1664,Regent University,0.254500001669,1
+1665,Christopher Newport University,0.550300002098,2
+1666,Bryant & Stratton College-Virginia Beach,0.0,0
+1667,Jefferson College of Health Sciences,0.209299996495,1
+1668,Centura College-Virginia Beach,1.0,5
+1669,Emory & Henry College,0.361000001431,1
+1670,Eastern Mennonite University,0.491800010204,2
+1671,Ferrum College,0.137700006366,0
+1672,George Mason University,0.443899989128,2
+1673,Hampden-Sydney College,0.631399989128,3
+1674,Hampton University,0.410899996758,2
+1675,Hollins University,0.58370000124,2
+1676,James Madison University,0.651400029659,3
+1677,Liberty University,0.290499985218,1
+1678,Longwood University,0.447699993849,2
+1679,Lynchburg College,0.425000011921,2
+1680,Mary Baldwin University,0.363599985838,1
+1681,University of Mary Washington,0.635599970818,3
+1682,Marymount University,0.349000006914,1
+1683,Norfolk State University,0.175699993968,0
+1684,Old Dominion University,0.236499994993,1
+1685,Radford University,0.432399988174,2
+1686,Randolph-Macon College,0.534600019455,2
+1687,Randolph College,0.361099988222,1
+1688,University of Richmond,0.801900029182,4
+1689,Roanoke College,0.570900022984,2
+1690,Shenandoah University,0.363400012255,1
+1691,Southern Virginia University,0.189700007439,0
+1692,Strayer University-Virginia,0.0938000008464,0
+1693,Sweet Briar College,0.621200025082,3
+1694,The University of Virginia's College at Wise,0.229499995708,1
+1695,Virginia Polytechnic Institute and State University,0.613399982452,3
+1696,Virginia Commonwealth University,0.337099999189,1
+1697,University of Virginia-Main Campus,0.874199986458,4
+1698,Virginia Military Institute,0.537100017071,2
+1699,Virginia University of Lynchburg,0.1738999933,0
+1700,Virginia State University,0.234799996018,1
+1701,Virginia Union University,0.139100000262,0
+1702,Virginia Wesleyan College,0.422500014305,2
+1703,Washington and Lee University,0.845799982548,4
+1704,Sanford-Brown College-Tysons Corner,0.315800011158,1
+1705,The Art Institute of Seattle,0.238700002432,1
+1706,Central Washington University,0.26780000329,1
+1707,Cornish College of the Arts,0.429300010204,2
+1708,Eastern Washington University,0.198300004005,0
+1709,The Evergreen State College,0.458999991417,2
+1710,Gonzaga University,0.732800006866,3
+1711,Heritage University,0.0196000002325,0
+1712,Trinity Lutheran College,0.357100009918,1
+1713,Northwest University,0.411500006914,2
+1714,Pacific Lutheran University,0.522499978542,2
+1715,University of Puget Sound,0.679000020027,3
+1716,Saint Martin's University,0.314700007439,1
+1717,Seattle Pacific University,0.605300009251,3
+1718,Seattle University,0.601599991322,3
+1719,Walla Walla University,0.203199997544,1
+1720,Washington State University,0.415199995041,2
+1721,University of Washington-Seattle Campus,0.612999975681,3
+1722,Western Washington University,0.396299988031,1
+1723,Whitman College,0.818000018597,4
+1724,Whitworth University,0.649500012398,3
+1725,Alderson Broaddus University,0.299400001764,1
+1726,Appalachian Bible College,0.514299988747,2
+1727,Bethany College,0.318699985743,1
+1728,Bluefield State College,0.127399995923,0
+1729,University of Charleston,0.262300014496,1
+1730,Concord University,0.181600004435,0
+1731,Davis & Elkins College,0.336499989033,1
+1732,Fairmont State University,0.159600004554,0
+1733,Glenville State College,0.101099997759,0
+1734,Marshall University,0.246299996972,1
+1735,Ohio Valley University,0.323900014162,1
+1736,West Virginia University at Parkersburg,0.0681999996305,0
+1737,Salem International University,0.109800003469,0
+1738,Shepherd University,0.196299999952,0
+1739,West Virginia State University,0.0529999993742,0
+1740,West Liberty University,0.175500005484,0
+1741,West Virginia University Institute of Technology,0.0741999968886,0
+1742,West Virginia Wesleyan College,0.43979999423,2
+1743,West Virginia University,0.329800009727,1
+1744,Wheeling Jesuit University,0.544000029564,2
+1745,Alverno College,0.111100003123,0
+1746,Bellin College,0.5,2
+1747,Beloit College,0.712199985981,3
+1748,Cardinal Stritch University,0.209700003266,1
+1749,Carroll University,0.401499986649,2
+1750,Carthage College,0.537800014019,2
+1751,Concordia University-Wisconsin,0.34580001235,1
+1752,Edgewood College,0.362399995327,1
+1753,ITT Technical Institute-Greenfield,0.363599985838,1
+1754,Lakeland University,0.421099990606,2
+1755,Lawrence University,0.66219997406,3
+1756,Maranatha Baptist University,0.329600006342,1
+1757,Marian University,0.362699985504,1
+1758,Marquette University,0.591300010681,2
+1759,Milwaukee Institute of Art & Design,0.497099995613,2
+1760,Milwaukee School of Engineering,0.334399998188,1
+1761,Mount Mary University,0.264400005341,1
+1762,Northland International University,0.310000002384,1
+1763,Northland College,0.405999988317,2
+1764,Ripon College,0.514199972153,2
+1765,Saint Norbert College,0.630900025368,3
+1766,Silver Lake College of the Holy Family,0.27270001173,1
+1767,Viterbo University,0.288100004196,1
+1768,University of Wisconsin-Whitewater,0.269699990749,1
+1769,University of Wisconsin-Eau Claire,0.290899991989,1
+1770,University of Wisconsin-Green Bay,0.236000001431,1
+1771,University of Wisconsin-La Crosse,0.324299991131,1
+1772,Wisconsin Lutheran College,0.493299990892,2
+1773,University of Wisconsin-Oshkosh,0.162699997425,0
+1774,University of Wisconsin-Parkside,0.0839999988675,0
+1775,Herzing University-Madison,0.329499989748,1
+1776,University of Wisconsin-Stout,0.191699996591,0
+1777,University of Wisconsin-Superior,0.19470000267,0
+1778,University of Wisconsin-Madison,0.546599984169,2
+1779,University of Wisconsin-Milwaukee,0.142900004983,0
+1780,University of Wisconsin-Platteville,0.160099998116,0
+1781,University of Wisconsin-River Falls,0.273999989033,1
+1782,University of Wisconsin-Stevens Point,0.256199985743,1
+1783,University of Wyoming,0.243699997663,1
+1784,University of Guam,0.0864999964833,0
+1785,Northern Marianas College,0.0,0
+1786,American University of Puerto Rico,0.0315999984741,0
+1787,American University of Puerto Rico,0.0847000032663,0
+1788,Universidad Adventista de las Antillas,0.170200005174,0
+1789,Atlantic University College,0.263999998569,1
+1790,Universidad Central de Bayamon,0.00540000014007,0
+1791,Caribbean University-Bayamon,0.082999996841,0
+1792,Caribbean University-Carolina,0.10000000149,0
+1793,Pontifical Catholic University of Puerto Rico-Arecibo,0.0,0
+1794,Pontifical Catholic University of Puerto Rico-Ponce,0.0750999972224,0
+1795,Universidad Teologica del Caribe,0.07689999789,0
+1796,Colegio Universitario de San Juan,0.222200006247,1
+1797,Universidad Metropolitana,0.0362999998033,0
+1798,Puerto Rico Conservatory of Music,0.0,0
+1799,EDP University of Puerto Rico Inc-San Sebastian,0.0833000019193,0
+1800,Escuela de Artes Plasticas y Diseno de Puerto Rico,0.0153999999166,0
+1801,Inter American University of Puerto Rico-San German,0.132400006056,0
+1802,Inter American University of Puerto Rico-Aguadilla,0.102700002491,0
+1803,Inter American University of Puerto Rico-Arecibo,0.121799997985,0
+1804,Inter American University of Puerto Rico-Barranquitas,0.21969999373,1
+1805,Inter American University of Puerto Rico-Metro,0.188299998641,0
+1806,Inter American University of Puerto Rico-Ponce,0.109999999404,0
+1807,Inter American University of Puerto Rico-Fajardo,0.0672999992967,0
+1808,Inter American University of Puerto Rico-Guayama,0.123199999332,0
+1809,Inter American University of Puerto Rico-Bayamon,0.0803000032902,0
+1810,National University College-Bayamon,0.114100001752,0
+1811,National University College-Arecibo,0.154799997807,0
+1812,University of Puerto Rico-Aguadilla,0.0476000010967,0
+1813,University of Puerto Rico-Arecibo,0.0646999999881,0
+1814,University of Puerto Rico-Bayamon,0.137999996543,0
+1815,University of Puerto Rico-Carolina,0.192100003362,0
+1816,University of Puerto Rico-Cayey,0.0482000000775,0
+1817,University of Puerto Rico-Humacao,0.0551999993622,0
+1818,University of Puerto Rico-Utuado,0.0255999993533,0
+1819,University of Puerto Rico-Mayaguez,0.0359000004828,0
+1820,University of Puerto Rico-Ponce,0.0772999972105,0
+1821,University of Puerto Rico-Rio Piedras,0.17159999907,0
+1822,Universidad del Este,0.0296999998391,0
+1823,Universidad del Sagrado Corazon,0.0579000003636,0
+1824,Universidad Central Del Caribe,0.0,0
+1825,Universidad Politecnica de Puerto Rico,0.0127999996766,0
+1826,Pontifical Catholic University of Puerto Rico-Mayaguez,0.0093999998644,0
+1827,Universidad del Turabo,0.0103000001982,0
+1828,University of the Virgin Islands,0.111100003123,0
+1829,Stanford University,0.762199997902,3
+1830,Purdue University-Main Campus,0.45269998908,2
+1831,EDP University of Puerto Rico Inc-San Juan,0.0588000006974,0
+1832,Widener University-Delaware Law School,0.5,2
+1833,Vatterott College-Berkeley,1.0,5
+1834,St. John's College,0.43520000577,2
+1835,Bais Medrash Elyon,0.0,0
+1836,Antioch University-Seattle,0.0,0
+1837,Mid-America Christian University,0.243599995971,1
+1838,Platt College-Tulsa,0.5,2
+1839,Beckfield College-Florence,0.0,0
+1840,National American University-Independence,0.0,0
+1841,Yeshiva Gedolah of Greater Detroit,0.0,0
+1842,National American University-Albuquerque,0.0,0
+1843,ECPI University,0.315800011158,1
+1844,South University-Columbia,0.117600001395,0
+1845,Everest University-Brandon,0.246800005436,1
+1846,Platt College-Aurora,0.75,3
+1847,Kaplan University-Davenport Campus,0.108099997044,0
+1848,Christian Life College,0.0,0
+1849,ITT Technical Institute-Arlington Heights,0.333299994469,1
+1850,Skyline College-Roanoke,0.600000023842,3
+1851,New College of Florida,0.572099983692,2
+1852,Le Cordon Bleu College of Culinary Arts-Scottsdale,0.649999976158,3
+1853,Yeshivah Gedolah Rabbinical College,0.0,0
+1854,Caribbean University-Ponce,0.147799998522,0
+1855,Caribbean University-Vega Baja,0.145500004292,0
+1856,University of Advancing Technology,0.222800001502,1
+1857,Pennsylvania College of Technology,0.308699995279,1
+1858,Southern Technical College,0.0500000007451,0
+1859,ITT Technical Institute-Knoxville,0.214300006628,1
+1860,California State University-San Marcos,0.121899999678,0
+1861,Argosy University-Hawaii,0.666700005531,3
+1862,Kaplan University-Des Moines Campus,0.0,0
+1863,McNally Smith College of Music,0.315800011158,1
+1864,Colorado Heights University,0.470600008965,2
+1865,Hodges University,0.10000000149,0
+1866,Everest University-Lakeland,0.333299994469,1
+1867,Argosy University-Atlanta,0.0,0
+1868,Nossi College of Art,0.428600013256,2
+1869,ITT Technical Institute-Norfolk,0.181799992919,0
+1870,ITT Technical Institute-Albuquerque,0.0,0
+1871,Remington College-Honolulu Campus,0.600000023842,3
+1872,Yeshiva Gedolah Imrei Yosef D'spinka,0.0,0
+1873,Northwest College of Art & Design,0.0,0
+1874,University of Washington-Bothell Campus,0.379500001669,1
+1875,University of Washington-Tacoma Campus,0.411100000143,2
+1876,Pacific College of Oriental Medicine-San Diego,0.0,0
+1877,University of Phoenix-Utah,0.0077999997884,0
+1878,Baker College of Port Huron,0.0,0
+1879,Westwood College-Aurora Campus,0.177799999714,0
+1880,ITT Technical Institute-San Bernardino,0.0714000016451,0
+1881,University of Phoenix-Puerto Rico,0.0286999996752,0
+1882,Beacon College,0.478300005198,2
+1883,University of the Potomac-Washington DC Campus,0.0,0
+1884,Rabbi Jacob Joseph School,0.0,0
+1885,Everglades University,0.366200000048,1
+1886,Herzing University-Winter Park,0.0,0
+1887,College of Biblical Studies-Houston,0.0,0
+1888,Everest University-South Orlando,0.25,1
+1889,Watkins College of Art Design & Film,0.12120000273,0
+1890,Mt Sierra College,0.0,0
+1891,Southern California Institute of Technology,0.717700004578,3
+1892,Soka University of America,0.700800001621,3
+1893,World Mission University,0.0908999964595,0
+1894,Colorado Technical University-Sioux Falls,0.0938000008464,0
+1895,Southwest University of Visual Arts-Albuquerque,0.72729998827,3
+1896,Baker College of Auburn Hills,0.0,0
+1897,Baker College of Clinton Township,0.0,0
+1898,Schiller International University,0.142900004983,0
+1899,Baker College of Cadillac,0.0,0
+1900,Yeshivas Novominsk,0.0,0
+1901,Rabbinical College of Ohr Shimon Yisroel,0.0,0
+1902,University of Phoenix-New Mexico,0.0120000001043,0
+1903,Westwood College-Dupage,0.246000006795,1
+1904,Arizona State University-West,0.42199999094,2
+1905,Minnesota School of Business-Brooklyn Center,0.181799992919,0
+1906,Brown Mackie College-Fort Wayne,0.0217000003904,0
+1907,Florida National University-Main Campus,0.639999985695,3
+1908,ITT Technical Institute-Fort Lauderdale,1.0,5
+1909,South Texas College,0.0,0
+1910,California State University-Monterey Bay,0.165700003505,0
+1911,Argosy University-The Art Institute of California-Hollywood,0.184200003743,0
+1912,Capella University,0.0,0
+1913,ITT Technical Institute-Oxnard,0.0,0
+1914,ITT Technical Institute-Greenville,0.0666999965906,0
+1915,ITT Technical Institute-Cordova,0.0500000007451,0
+1916,Baker College of Jackson,0.0741000026464,0
+1917,ITT Technical Institute-Bessemer,0.0,0
+1918,ITT Technical Institute-Orland Park,0.0,0
+1919,Baker College Center for Graduate Studies,0.10000000149,0
+1920,Johnson & Wales University-North Miami,0.264699995518,1
+1921,Trine University-Regional/Non-Traditional Campuses,0.0,0
+1922,Messenger College,0.0,0
+1923,Argosy University-Washington DC,0.0,0
+1924,Everest University-Melbourne,0.20000000298,1
+1925,University of Phoenix-Hawaii,0.0,0
+1926,Virginia College-Birmingham,0.0138999996707,0
+1927,Virginia College-Huntsville,1.0,5
+1928,Yeshiva D'monsey Rabbinical College,0.0,0
+1929,Arizona State University-Polytechnic,0.360700011253,1
+1930,Argosy University-Schaumburg,1.0,5
+1931,Embry-Riddle Aeronautical University-Worldwide,0.182899996638,0
+1932,Argosy University-Tampa,0.166700005531,0
+1933,The Illinois Institute of Art-Schaumburg,0.467200011015,2
+1934,The Art Institute of Phoenix,0.258100003004,1
+1935,ITT Technical Institute-Henderson,0.0,0
+1936,Colorado Technical University-Greenwood Village,0.212099999189,1
+1937,Strayer University-Maryland,0.0666999965906,0
+1938,ITT Technical Institute-Hialeah,0.13789999485,0
+1939,New Hampshire Institute of Art,0.465299993753,2
+1940,Yeshiva of the Telshe Alumni,0.0,0
+1941,University of Phoenix-Washington,0.0227000005543,0
+1942,University of Phoenix-Oregon,0.0,0
+1943,Argosy University-The Art Institute of California-Los Angeles,0.172900006175,0
+1944,Western Governors University,0.0732000023127,0
+1945,Herzing University-Kenner,0.0,0
+1946,Florida Gulf Coast University,0.235699996352,1
+1947,ITT Technical Institute-Arnold,0.0,0
+1948,ITT Technical Institute-Oak Brook,0.0,0
+1949,University of Phoenix-Maryland,0.0,0
+1950,Argosy University-Phoenix,0.0,0
+1951,Vatterott College-Sunset Hills,1.0,5
+1952,Argosy University-Orange County,0.0,0
+1953,National American University-Bloomington,0.0,0
+1954,International Baptist College and Seminary,0.125,0
+1955,University of Connecticut-Tri-Campus,0.279599994421,1
+1956,University of Connecticut-Avery Point,0.294600009918,1
+1957,University of Connecticut-Stamford,0.211899995804,1
+1958,ITT Technical Institute-Saint Rose,1.0,5
+1959,ITT Technical Institute-Richmond,0.5,2
+1960,ITT Technical Institute-Lathrop,0.375,1
+1961,Westwood College-Anaheim,0.328500002623,1
+1962,Stevens-Henager College,0.270799994469,1
+1963,Stratford University,0.0,0
+1964,American InterContinental University-Atlanta,0.15000000596,0
+1965,American InterContinental University-South Florida,0.111100003123,0
+1966,Everest University-Jacksonville,0.40000000596,2
+1967,Argosy University-Seattle,0.0,0
+1968,Johnson & Wales University-Denver,0.370200008154,1
+1969,University of Phoenix-Ohio,0.0,0
+1970,Crossroads Bible College,0.20000000298,1
+1971,The King's University,0.333299994469,1
+1972,Pacific Islands University,0.0,0
+1973,Westwood College-River Oaks,0.120499998331,0
+1974,ITT Technical Institute-Green Bay,0.15000000596,0
+1975,Everest College-Ontario Metro,0.800000011921,4
+1976,The Art Institute of Washington,0.209499999881,1
+1977,University of Phoenix-Massachusetts,0.0,0
+1978,University of Phoenix-Wisconsin,0.00329999998212,0
+1979,University of Phoenix-Idaho,0.0,0
+1980,Westwood College-Inland Empire,0.324099987745,1
+1981,National American University-Ellsworth AFB Extension,0.0,0
+1982,National American University-Albuquerque West,0.0,0
+1983,National American University-Brooklyn Center,0.0,0
+1984,Pillar College,0.333299994469,1
+1985,Sanford-Brown College-Orlando,0.16930000484,0
+1986,Apex School of Theology,0.761900007725,3
+1987,Universidad Pentecostal Mizpa,0.0,0
+1988,Nevada State College,0.0604000017047,0
+1989,California State University-Channel Islands,0.270500004292,1
+1990,ITT Technical Institute-Springfield,0.0,0
+1991,ITT Technical Institute-Chantilly,0.20000000298,1
+1992,Argosy University-The Art Institute of California-Orange County,0.25150001049,1
+1993,Franklin W Olin College of Engineering,0.826699972153,4
+1994,University of Phoenix-Illinois,0.00230000005104,0
+1995,Minnesota School of Business-Plymouth,0.5,2
+1996,University of the Potomac-VA Campus,0.166700005531,0
+1997,National American University-Overland Park,0.0,0
+1998,Pacific College of Oriental Medicine-Chicago,1.0,5
+1999,Faith International University,0.181799992919,0
+2000,Family of Faith Christian University,1.0,5
+2001,Williamson Christian College,0.333299994469,1
+2002,DigiPen Institute of Technology,0.375800013542,1
+2003,ITT Technical Institute-Duluth,0.25,1
+2004,University of Phoenix-Indiana,0.0,0
+2005,Dewey University-Hato Rey,0.0566000007093,0
+2006,Westwood College-Chicago Loop,0.198599994183,0
+2007,Strayer University-Tennessee,0.25,1
+2008,Strayer University-Pennsylvania,0.0833000019193,0
+2009,National University College-Rio Grande,0.325800001621,1
+2010,Colorado Technical University-Online,1.0,5
+2011,Baker College of Allen Park,0.333299994469,1
+2012,Baptist University of the Americas,0.130400002003,0
+2013,Beis Medrash Heichal Dovid,0.0588000006974,0
+2014,Jones International University,0.19050000608,0
+2015,Charlotte Christian College and Theological Seminary,0.0,0
+2016,The Art Institute of Tucson,0.206900000572,1
+2017,American InterContinental University-Online,0.07689999789,0
+2018,Westwood College-Atlanta Peachtree Center Campus,0.20000000298,1
+2019,International Academy of Design and Technology-Troy,0.119000002742,0
+2020,American InterContinental University-Houston,0.230800002813,1
+2021,University of California-Merced,0.336199998856,1
+2022,Platt College-North OKC,0.75,3
+2023,Westwood College-Northlake,0.188700005412,0
+2024,University of Phoenix-New Jersey,0.0,0
+2025,University of Phoenix-Minnesota,0.0,0
+2026,University of Phoenix-Kentucky,0.0,0
+2027,Everest University-Orange Park,0.25,1
+2028,Neumont University,0.584900021553,2
+2029,Johnson & Wales University-Charlotte,0.393400013447,1
+2030,Minnesota School of Business-Waite Park,0.125,0
+2031,Ave Maria University,0.375600010157,1
+2032,Ecclesia College,0.0322999991477,0
+2033,Uta Mesivta of Kiryas Joel,0.0,0
+2034,Harrisburg University of Science and Technology,0.0606000013649,0
+2035,Stevens-Henager College,0.287200003862,1
+2036,University of Phoenix-Iowa,0.0,0
+2037,Sanford-Brown College-Las Vegas,0.196400001645,0
+2038,Sanford-Brown College-Seattle,0.178599998355,0
+2039,International Academy of Design and Technology-Nashville,0.176499992609,0
+2040,ITT Technical Institute-Kennesaw,0.0908999964595,0
+2041,United States University,0.166700005531,0
+2042,Westwood College-Arlington Ballston,0.219799995422,1
+2043,Argosy University-Los Angeles,0.0,0
+2044,Brown Mackie College-Miami,0.333299994469,1
+2045,Eagle Gate College-Layton,0.823499977589,4
+2046,SAE Expression College,0.62349998951,3
+2047,Minnesota School of Business-Rochester,0.125,0
+2048,Georgia Gwinnett College,0.0582000017166,0
+2049,SUM Bible College and Theological Seminary,0.0833000019193,0
+2050,Doane University-Graduate and Professional Studies,0.0,0
+2051,Shorter University-College of Adult & Professional Programs,0.0,0
+2052,The Art Institute of Indianapolis,0.273999989033,1
+2053,ITT Technical Institute-Charlotte South,0.0425999984145,0
+2054,ITT Technical Institute-Clovis,0.0,0
+2055,ITT Technical Institute-Oklahoma City,0.25,1
+2056,ITT Technical Institute-Tulsa,0.0,0
+2057,University of Phoenix-South Carolina,0.0,0
+2058,Argosy University-The Art Institute of California-Inland Empire,0.158899992704,0
+2059,National American University-Zona Rosa,0.0,0
+2060,Westwood College-Annandale,0.240500003099,1
+2061,Argosy University-Denver,0.0,0
+2062,CollegeAmerica-Colorado Springs,0.311500012875,1
+2063,CollegeAmerica-Fort Collins,0.142900004983,0
+2064,University of Phoenix-Connecticut,0.0,0
+2065,University of South Florida-St Petersburg,0.168400004506,0
+2066,Arizona State University-Downtown Phoenix,0.414900004864,2
+2067,The Art Institute of Tennessee-Nashville,0.371399998665,1
+2068,Strayer University-Florida,0.0,0
+2069,American Public University System,0.282200008631,1
+2070,Bais Medrash Toras Chesed,0.0,0
+2071,Visible Music College,0.0,0
+2072,University of the West,0.0,0
+2073,South University-Tampa,0.0555999986827,0
+2074,Averett University-Non-Traditional Programs,0.0,0
+2075,The Art Institute of Salt Lake City,0.171399995685,0
+2076,The Art Institute of Charleston,0.344099998474,1
+2077,Argosy University-The Art Institute of California-Sacramento,0.309500008821,1
+2078,ITT Technical Institute-Columbia,0.15379999578,0
+2079,ITT Technical Institute-Atlanta,0.125,0
+2080,ITT Technical Institute-Mobile,0.0,0
+2081,ITT Technical Institute-Chattanooga,0.0,0
+2082,Strayer University-Delaware,0.5,2
+2083,International Academy of Design and Technology-Sacramento,0.328099995852,1
+2084,University of Phoenix-Alabama,0.0,0
+2085,University of Phoenix-Washington DC,0.0,0
+2086,Argosy University-Inland Empire,0.0,0
+2087,Rasmussen College-Wisconsin,0.0,0
+2088,Columbia Southern University,0.350800007582,1
+2089,Trident University International,0.388500005007,1
+2090,Digital Media Arts College,0.3125,1
+2091,Yeshiva Toras Chaim,0.0,0
+2092,Talmudical Seminary of Bobov,0.0,0
+2093,The Art Institute of Pittsburgh-Online Division,0.0697000026703,0
+2094,Brown Mackie College-Indianapolis,0.0,0
+2095,CollegeAmerica-Cheyenne,0.0,0
+2096,Bryant & Stratton College-Wauwatosa,0.0,0
+2097,Minnesota School of Business-Blaine,0.454499989748,2
+2098,The Art Institute of Michigan,0.256399989128,1
+2099,The Art Institute of Austin,0.27120000124,1
+2100,Argosy University-The Art Institute of California-Silicon Valley,0.36669999361,1
+2101,National American University-Austin,0.0,0
+2102,ITT Technical Institute-Cary,0.0714000016451,0
+2103,ITT Technical Institute-Madison,0.20000000298,1
+2104,ITT Technical Institute-Phoenix,0.0666999965906,0
+2105,ITT Technical Institute-Madison,0.0,0
+2106,ITT Technical Institute-High Point,0.214300006628,1
+2107,The Art Institutes International-Kansas City,0.0,0
+2108,The Art Institute of Raleigh-Durham,0.0,0
+2109,Strayer University-North Carolina,0.0,0
+2110,Strayer University-New Jersey,0.0,0
+2111,The King's College,0.441199988127,2
+2112,Chamberlain College of Nursing-Illinois,1.0,5
+2113,Chamberlain College of Nursing-Ohio,0.20000000298,1
+2114,Chamberlain College of Nursing-Arizona,0.40000000596,2
+2115,Yeshiva of Machzikai Hadas,0.0,0
+2116,Minnesota School of Business-Moorhead,1.0,5
+2117,Brown Mackie College-Boise,0.0313000008464,0
+2118,Providence Christian College,0.5,2
+2119,Sanford-Brown College-Online,0.0926000028849,0
+2120,Argosy University-Phoenix Online Division,0.054999999702,0
+2121,Polytechnic University of Puerto Rico-Orlando,0.0,0
+2122,Globe University-Sioux Falls,0.0,0
+2123,Globe University-Eau Claire,0.142900004983,0
+2124,Pacific Rim Christian University,1.0,5
+2125,National University College-Ponce,0.3492000103,1
+2126,Strayer University-Georgia,0.230800002813,1
+2127,Strayer University-South Carolina,0.25,1
+2128,Strayer University-Global Region,0.0,0
+2129,Stevens-Henager College,0.270999997854,1
+2130,National Paralegal College,0.0,0
+2131,Georgia Christian University,0.0908999964595,0
+2132,Grace College of Divinity,0.5,2
+2133,Mesivta Keser Torah,0.0454999990761,0
+2134,John Paul the Great Catholic University,0.550000011921,2
+2135,Independence University,1.0,5
+2136,Chamberlain College of Nursing-Missouri,0.333299994469,1
+2137,South University-Savannah Online,0.00329999998212,0
+2138,Sanford-Brown College-Brooklyn Center,0.275900006294,1
+2139,Criswell College,0.142900004983,0
+2140,Beverly Hills Design Institute,1.0,5
+2141,Yeshiva Gedolah Zichron Leyma,0.0,0
+2142,Be'er Yaakov Talmudic Seminary,0.0,0
+2143,Pennsylvania State University-World Campus,0.10000000149,0
+2144,Warner Pacific College Adult Degree Program,0.31819999218,1
+2145,Grace Mission University,0.0,0
+2146,Mid-South Christian College,0.0,0
+2147,Yeshiva Gedolah Kesser Torah,0.666700005531,3
+2148,Yeshiva Yesodei Hatorah,0.5,2
+2149,Augusta University,0.0756999999285,0
+2150,Middle Georgia State University,0.107699997723,0
+2151,DeVry College of New York,0.20000000298,1
+2152,DeVry University-Arizona,0.303700000048,1
+2153,DeVry University-California,0.230399996042,1
+2154,DeVry University-Colorado,0.279100000858,1
+2155,DeVry University-Florida,0.345200002193,1
+2156,DeVry University-Georgia,0.198899999261,0
+2157,DeVry University-Illinois,0.236000001431,1
+2158,DeVry University-Indiana,0.142900004983,0
+2159,DeVry University-Maryland,1.0,5
+2160,DeVry University-Minnesota,0.0,0
+2161,DeVry University-Missouri,0.214300006628,1
+2162,DeVry University-Nevada,0.111100003123,0
+2163,DeVry University-New Jersey,0.1738999933,0
+2164,DeVry University-North Carolina,0.1053000018,0
+2165,DeVry University-Ohio,0.269800007343,1
+2166,DeVry University-Oklahoma,0.0,0
+2167,DeVry University-Oregon,0.0,0
+2168,DeVry University-Pennsylvania,0.183200001717,0
+2169,DeVry University-Tennessee,0.0,0
+2170,DeVry University-Texas,0.149800002575,0
+2171,DeVry University-Virginia,0.089699998498,0
+2172,DeVry University-Washington,0.189700007439,0
+2173,DeVry University-Wisconsin,0.333299994469,1
+2174,University of North Georgia,0.264499992132,1
+2175,University of Phoenix-Arizona,0.00850000046194,0
+2176,University of Phoenix-Arkansas,0.00150000001304,0
+2177,University of Phoenix-California,0.00800000037998,0
+2178,University of Phoenix-Colorado,0.0241999998689,0
+2179,University of Phoenix-Florida,0.00749999983236,0
+2180,University of Phoenix-Georgia,0.00219999998808,0
+2181,University of Phoenix-Louisiana,0.00240000011399,0
+2182,University of Phoenix-Michigan,0.00130000000354,0
+2183,University of Phoenix-Missouri,0.00209999992512,0
+2184,University of Phoenix-Nevada,0.0133999995887,0
+2185,University of Phoenix-North Carolina,0.0,0
+2186,University of Phoenix-Oklahoma,0.00230000005104,0
+2187,University of Phoenix-Tennessee,0.00300000002608,0
+2188,University of Phoenix-Texas,0.0109999999404,0
+2189,University of Phoenix-Virginia,0.00689999992028,0
+2190,University of Phoenix-Pennsylvania,0.0,0
+2191,California College San Diego,0.172900006175,0
